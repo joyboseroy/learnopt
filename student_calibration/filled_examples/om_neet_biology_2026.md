@@ -1,4 +1,4 @@
-# LearnOpt -- Task Sheet for Om (v2, ~1 hour)
+# LearnOpt -- Task Sheet for O.T (v2, ~1 hour)
 
 ## What this is
 
