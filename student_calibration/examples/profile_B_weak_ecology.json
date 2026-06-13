@@ -1,0 +1,26 @@
+{
+  "_comment": "Example mastery vector B: inverted from Profile A -- strong in Genetics/Cell Biology, weak in Ecology/Physiology. Together, A and B demonstrate that LearnOpt's recommendations are conditioned on student state, unlike uniform or topic-frequency baselines which would recommend the same plan to both.",
+  "mastery": {
+    "Genetics -- Mendelian inheritance": 0.8,
+    "Genetics -- Pedigree analysis": 0.8,
+    "Genetics -- Molecular basis (DNA/RNA)": 0.7,
+    "Cell biology -- Organelles": 0.7,
+    "Cell biology -- Cell division": 0.8,
+    "Human physiology -- Digestion": 0.3,
+    "Human physiology -- Circulation": 0.3,
+    "Human physiology -- Nervous system": 0.2,
+    "Human physiology -- Excretion": 0.3,
+    "Ecology -- Ecosystem": 0.2,
+    "Ecology -- Population": 0.2,
+    "Plant physiology -- Photosynthesis": 0.5,
+    "Plant physiology -- Respiration": 0.5,
+    "Reproduction": 0.5,
+    "Evolution": 0.4,
+    "Biomolecules / Enzymes": 0.5,
+    "Microbes in human welfare": 0.3,
+    "Biotechnology": 0.5
+  },
+  "priors": {},
+  "total_hours": 150,
+  "weekly_hours": 20
+}

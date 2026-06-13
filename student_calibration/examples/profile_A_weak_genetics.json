@@ -1,0 +1,26 @@
+{
+  "_comment": "Example mastery vector A: weak in Genetics/Cell Biology, strong in Ecology/Physiology. Used as a worked example in README and to demonstrate that LearnOpt produces different plans for different students.",
+  "mastery": {
+    "Genetics -- Mendelian inheritance": 0.2,
+    "Genetics -- Pedigree analysis": 0.2,
+    "Genetics -- Molecular basis (DNA/RNA)": 0.2,
+    "Cell biology -- Organelles": 0.3,
+    "Cell biology -- Cell division": 0.2,
+    "Human physiology -- Digestion": 0.7,
+    "Human physiology -- Circulation": 0.7,
+    "Human physiology -- Nervous system": 0.6,
+    "Human physiology -- Excretion": 0.6,
+    "Ecology -- Ecosystem": 0.8,
+    "Ecology -- Population": 0.8,
+    "Plant physiology -- Photosynthesis": 0.5,
+    "Plant physiology -- Respiration": 0.5,
+    "Reproduction": 0.4,
+    "Evolution": 0.5,
+    "Biomolecules / Enzymes": 0.4,
+    "Microbes in human welfare": 0.6,
+    "Biotechnology": 0.4
+  },
+  "priors": {},
+  "total_hours": 150,
+  "weekly_hours": 20
+}
