@@ -1,0 +1,27 @@
+{
+  "_comment": "Real NEET aspirant mastery profile, co-author O.T., self-assessed June 2026. Three topics marked 'not done yet' (treated as null -> optimizer default). Evolution left unrated by respondent.",
+  "respondent": "O.T. (NEET aspirant, co-author)",
+  "mastery": {
+    "Genetics -- Mendelian inheritance": 0.7,
+    "Genetics -- Pedigree analysis": 0.9,
+    "Genetics -- Molecular basis (DNA/RNA)": 0.5,
+    "Cell biology -- Organelles": 1.0,
+    "Cell biology -- Cell division": 1.0,
+    "Human physiology -- Digestion": 1.0,
+    "Human physiology -- Circulation": 1.0,
+    "Human physiology -- Nervous system": 1.0,
+    "Human physiology -- Excretion": 1.0,
+    "Ecology -- Ecosystem": null,
+    "Ecology -- Population": 0.7,
+    "Plant physiology -- Photosynthesis": 0.7,
+    "Plant physiology -- Respiration": 0.6,
+    "Reproduction": 0.8,
+    "Evolution": null,
+    "Biomolecules / Enzymes": 0.2,
+    "Microbes in human welfare": null,
+    "Biotechnology": null
+  },
+  "priors": {},
+  "total_hours": 150,
+  "weekly_hours": 20
+}
