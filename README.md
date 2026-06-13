@@ -66,8 +66,8 @@ Or open `notebooks/reproduce_section4.ipynb` for the full Section 4 analysis
 ## Dataset
 
 Tagged question data is also available on HuggingFace:
-- `joyboseroy/neet-skill-tags-2016-2024`
-- `joyboseroy/jee-advanced-skill-tags-2016-2023`
+- [`joyboseroy/neet-skill-tags-2016-2024`](https://huggingface.co/datasets/joyboseroy/neet-skill-tags-2016-2024)
+- [`joyboseroy/jee-advanced-skill-tags-2016-2023`](https://huggingface.co/datasets/joyboseroy/jee-advanced-skill-tags-2016-2023)
 
 The underlying NEET question text is sourced from
 [`dipikakhullar/neet`](https://huggingface.co/datasets/dipikakhullar/neet)
@@ -92,7 +92,21 @@ See `prompts/skill_taxonomy_prompt.md` for the full tagging prompt and
 If you use this code or data, please cite:
 
 ```bibtex
+@article{bose2026learnopt,
+  title   = {LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization},
+  author  = {Bose, Joy and Thomas, Om},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/XXXX.XXXXX}
+}
 
+@dataset{bose2026neetskilltags,
+  title     = {NEET Skill Tags 2016--2024},
+  author    = {Bose, Joy and Thomas, Om},
+  year      = {2026},
+  publisher = {HuggingFace},
+  url       = {https://huggingface.co/datasets/joyboseroy/neet-skill-tags-2016-2024}
+}
 ```
 
 ## Status
