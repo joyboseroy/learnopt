@@ -1,111 +1,2143 @@
 year,subject,question,skill,skill_evidence,chapter,topic,difficulty,ncert_reference,tagger
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S4,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S4,,,,,,groq-llama-3.1-8b-instant
-2016,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2016,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Physics,,S4,,,,,,groq-llama-3.1-8b-instant
-2017,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2017,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S4,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2017,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Physics,,S5,,,,,,groq-llama-3.1-8b-instant
-2019,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2019,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2019,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2019,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Chemistry,,S5,,,,,,groq-llama-3.1-8b-instant
-2020,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S5,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2020,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2021,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S2,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S2,,,,,,groq-llama-3.1-8b-instant
-2022,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S5,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S3,,,,,,groq-llama-3.1-8b-instant
-2023,Mathematics,,S5,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S5,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S2,,,,,,groq-llama-3.1-8b-instant
-2023,Physics,,S5,,,,,,groq-llama-3.1-8b-instant
-2023,Chemistry,,S5,,,,,,groq-llama-3.1-8b-instant
+2016,Physics,"In a historical experiment to determine Planck's constant, a metal surface was irradiated with light of different wavelengths. The emitted photoelectron energies were measured by applying a stopping potential. The relevant data for the wavelength $(\lambda)$ of incident light and the corresponding stopping potential $\left(V_{0}\right)$ are given below :
+
+\begin{center}
+
+\begin{tabular}{cc}
+
+\hline
+
+$\lambda(\mu \mathrm{m})$ & $V_{0}($ Volt $)$ \\
+
+\hline
+
+0.3 & 2.0 \\
+
+0.4 & 1.0 \\
+
+0.5 & 0.4 \\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+Given that $c=3 \times 10^{8} \mathrm{~m} \mathrm{~s}^{-1}$ and $e=1.6 \times 10^{-19} \mathrm{C}$, Planck's constant (in units of $J \mathrm{~s}$ ) found from such an experiment is
+
+(A) $6.0 \times 10^{-34}$
+
+(B) $6.4 \times 10^{-34}$
+
+(C) $6.6 \times 10^{-34}$
+
+(D) $6.8 \times 10^{-34}$",S3,Combining knowledge of photoelectric effect and energy quantization.,Class 11 Physics,Dual Nature of Radiation and Matter,4,Chapter 12,groq-llama-3.1-8b-instant
+2016,Physics,"A uniform wooden stick of mass $1.6 \mathrm{~kg}$ and length $l$ rests in an inclined manner on a smooth, vertical wall of height $h(<l)$ such that a small portion of the stick extends beyond the wall. The reaction force of the wall on the stick is perpendicular to the stick. The stick makes an angle of $30^{\circ}$ with the wall and the bottom of the stick is on a rough floor. The reaction of the wall on the stick is equal in magnitude to the reaction of the floor on the stick. The ratio $h / l$ and the frictional force $f$ at the bottom of the stick are
+
+$\left(g=10 \mathrm{~ms} \mathrm{~s}^{2}\right)$
+
+(A) $\frac{h}{l}=\frac{\sqrt{3}}{16}, f=\frac{16 \sqrt{3}}{3} \mathrm{~N}$
+
+(B) $\frac{h}{l}=\frac{3}{16}, f=\frac{16 \sqrt{3}}{3} \mathrm{~N}$
+
+(C) $\frac{h}{l}=\frac{3 \sqrt{3}}{16}, f=\frac{8 \sqrt{3}}{3} \mathrm{~N}$
+
+(D) $\frac{h}{l}=\frac{3 \sqrt{3}}{16}, f=\frac{16 \sqrt{3}}{3} \mathrm{~N}$",S3,"Requires combining knowledge from torque, friction, and trigonometry.",Class 11 Physics,Mechanics,5,Chapter 6,groq-llama-3.1-8b-instant
+2016,Chemistry,"One mole of an ideal gas at $300 \mathrm{~K}$ in thermal contact with surroundings expands isothermally from $1.0 \mathrm{~L}$ to $2.0 \mathrm{~L}$ against a constant pressure of $3.0 \mathrm{~atm}$. In this process, the change in entropy of surroundings $\left(\Delta S_{\text {surr }}\right)$ in $\mathrm{J} \mathrm{K}^{-1}$ is
+
+(1 $\mathrm{L} \operatorname{atm}=101.3 \mathrm{~J})$
+
+(A) 5.763
+
+(B) 1.013
+
+(C) -1.013
+
+(D) -5.763",S4,"Requires numerical calculation, unit analysis, or formula application.",Thermodynamics,Entropy,4,Class 11 Chemistry Chapter 6,groq-llama-3.1-8b-instant
+2016,Chemistry,"The increasing order of atomic radii of the following Group 13 elements is
+
+(A) $\mathrm{Al}<\mathrm{Ga}<\mathrm{In}<\mathrm{Tl}$
+
+(B) $\mathrm{Ga}<\mathrm{Al}<\mathrm{In}<\mathrm{Tl}$
+
+(C) $\mathrm{Al}<\mathrm{In}<\mathrm{Ga}<\mathrm{Tl}$
+
+(D) $\mathrm{Al}<\mathrm{Ga}<\mathrm{Tl}<\mathrm{In}$",S3,Requires combining knowledge of periodic trends and atomic structure.,Periodic Properties,Atomic Radii,4,Class 11 Chemistry Chapter 3,groq-llama-3.1-8b-instant
+2016,Chemistry,"Among $[\mathrm{Ni(CO)}_{4}]$, $[\mathrm{NiCl}_{4}]^{2-}$, $[\mathrm{Co(NH_3)_{4}Cl_2}]\mathrm{Cl}$, $\mathrm{Na_3}[\mathrm{CoF_6}]$, $\mathrm{Na_2O_2}$ and $\mathrm{CsO_2}$ number of paramagnetic compounds is
+
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5",S3,Requires knowledge of coordination compounds and their magnetic properties,Chapter 9,Coordination Compounds,4,Class 12 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2016,Chemistry,"On complete hydrogenation, natural rubber produces
+
+(A) ethylene-propylene copolymer
+
+(B) vulcanised rubber
+
+(C) polypropylene
+
+(D) polybutylene",S2,Application of hydrogenation principle to natural rubber,Organic Chemistry,Hydrogenation,3,Class 11 Chemistry Chapter 12,groq-llama-3.1-8b-instant
+2016,Mathematics,"Let $-\frac{\pi}{6}<\theta<-\frac{\pi}{12}$. Suppose $\alpha_{1}$ and $\beta_{1}$ are the roots of the equation $x^{2}-2 x \sec \theta+1=0$ and $\alpha_{2}$ and $\beta_{2}$ are the roots of the equation $x^{2}+2 x \tan \theta-1=0$. If $\alpha_{1}>\beta_{1}$ and $\alpha_{2}>\beta_{2}$, then $\alpha_{1}+\beta_{2}$ equals
+
+(A) $2(\sec \theta-\tan \theta)$
+
+(B) $2 \sec \theta$
+
+(C) $-2 \tan \theta$
+
+(D) 0",S3,Requires knowledge of quadratic equations and trigonometric functions.,Mathematics,Quadratic Equations and Trigonometry,5,Class 11 Mathematics Chapter 5,groq-llama-3.1-8b-instant
+2016,Mathematics,"A debate club consists of 6 girls and 4 boys. A team of 4 members is to be selected from this club including the selection of a captain (from among these 4 members) for the team. If the team has to include at most one boy, then the number of ways of selecting the team is
+
+(A) 380
+
+(B) 320
+
+(C) 260
+
+(D) 95",S3,Combining knowledge of permutations and combinations with the concept of selecting a captain.,Combinations and Permutations,Permutations and Combinations with Restrictions,4,Class 11 Mathematics Chapter 7,groq-llama-3.1-8b-instant
+2016,Mathematics,"Let $S=\left\{x \in(-\pi, \pi): x \neq 0, \pm \frac{\pi}{2}\right\}$. The sum of all distinct solutions of the equation $\sqrt{3} \sec x+\operatorname{cosec} x+2(\tan x-\cot x)=0$ in the set $S$ is equal to
+
+(A) $-\frac{7 \pi}{9}$
+
+(B) $-\frac{2 \pi}{9}$
+
+(C) 0
+
+(D) $\frac{5 \pi}{9}$",S3,Combining knowledge of trigonometric identities and equations to solve for x.,"Mathematics, Class 11, Trigonometry",Trigonometric Equations,5,Class 11 Mathematics Chapter 3 N,groq-llama-3.1-8b-instant
+2016,Mathematics,"A computer producing factory has only two plants $T_{1}$ and $T_{2}$. Plant $T_{1}$ produces $20 \%$ and plant $T_{2}$ produces $80 \%$ of the total computers produced. $7 \%$ of computers produced in the factory turn out to be defective. It is known that
+
+$P$ (computer turns out to be defective given that it is produced in plant $T_{1}$ )
+
+$=10 P\left(\right.$ computer turns out to be defective given that it is produced in plant $\left.T_{2}\right)$,
+
+where $P(E)$ denotes the probability of an event $E$. A computer produced in the factory is randomly selected and it does not turn out to be defective. Then the probability that it is produced in plant $T_{2}$ is
+
+(A) $\frac{36}{73}$
+
+(B) $\frac{47}{79}$
+
+(C) $\frac{78}{93}$
+
+(D) $\frac{75}{83}$",S3,"Requires combining knowledge from two or more distinct chapters/topics simultaneously, specifically probability and conditional probability.",Probability,Conditional Probability,5,Class 12 Maths Chapter 13,groq-llama-3.1-8b-instant
+2016,Mathematics,"The least value of $\alpha \in \mathbb{R}$ for which $4 \alpha x^{2}+\frac{1}{x} \geq 1$, for all $x>0$, is
+
+(A) $\frac{1}{64}$
+
+(B) $\frac{1}{32}$
+
+(C) $\frac{1}{27}$
+
+(D) $\frac{1}{25}$",S3,Combining knowledge of inequalities and quadratic equations.,Mathematics,Inequalities and Quadratic Equations,4,Class 11 Mathematics Chapter 6,groq-llama-3.1-8b-instant
+2016,Physics,"The electrostatic energy of $Z$ protons uniformly distributed throughout a spherical nucleus of radius $R$ is given by
+
+\[
+E=\frac{3}{5} \frac{Z(Z-1) e^{2}}{4 \pi \varepsilon_{0} R}
+\]
+
+The measured masses of the neutron, ${ }_{1}^{1} \mathrm{H},{ }_{7}^{15} \mathrm{~N}$ and ${ }_{8}^{15} \mathrm{O}$ are $1.008665 \mathrm{u}, 1.007825 \mathrm{u}$, $15.000109 \mathrm{u}$ and $15.003065 \mathrm{u}$, respectively. Given that the radii of both the ${ }_{7}^{15} \mathrm{~N}$ and ${ }_{8}^{15} \mathrm{O}$ nuclei are same, $1 \mathrm{u}=931.5 \mathrm{MeV} / c^{2}$ ( $c$ is the speed of light) and $e^{2} /\left(4 \pi \varepsilon_{0}\right)=1.44 \mathrm{MeV} \mathrm{fm}$. Assuming that the difference between the binding energies of ${ }_{7}^{15} \mathrm{~N}$ and ${ }_{8}^{15} \mathrm{O}$ is purely due to the electrostatic energy, the radius of either of the nuclei is
+
+$\left(1 \mathrm{fm}=10^{-15} \mathrm{~m}\right)$
+
+(A) $2.85 \mathrm{fm}$
+
+(B) $3.03 \mathrm{fm}$
+
+(C) $3.42 \mathrm{fm}$
+
+(D) $3.80 \mathrm{fm}$",S3,Requires combining knowledge of electrostatic energy and nuclear binding energy.,Class 11/12 Physics Nuclear Physics,Electrostatic Energy of Nucleus,4,Class 12 Physics Chapter 43,groq-llama-3.1-8b-instant
+2016,Physics,"An accident in a nuclear laboratory resulted in deposition of a certain amount of radioactive material of half-life 18 days inside the laboratory. Tests revealed that the radiation was 64 times more than the permissible level required for safe operation of the laboratory. What is the minimum number of days after which the laboratory can be considered safe for use?
+
+(A) 64
+
+(B) 90
+
+(C) 108
+
+(D) 120",S3,Combining knowledge of radioactive decay and half-life.,Nuclear Physics,Radioactive Decay,4,Class 11 Physics Chapter 13,groq-llama-3.1-8b-instant
+2016,Physics,"A gas is enclosed in a cylinder with a movable frictionless piston. Its initial thermodynamic state at pressure $P_{i}=10^{5} \mathrm{~Pa}$ and volume $V_{i}=10^{-3} \mathrm{~m}^{3}$ changes to a final state at $P_{f}=(1 / 32) \times 10^{5} \mathrm{~Pa}$ and $V_{f}=8 \times 10^{-3} \mathrm{~m}^{3}$ in an adiabatic quasi-static process, such that $P^{3} V^{5}=$ constant. Consider another thermodynamic process that brings the system from the same initial state to the same final state in two steps: an isobaric expansion at $P_{i}$ followed by an isochoric (isovolumetric) process at volume $V_{f}$. The amount of heat supplied to the system in the two-step process is approximately
+
+(A) $112 \mathrm{~J}$
+
+(B) $294 \mathrm{~J}$
+
+(C) $588 \mathrm{~J}$
+
+(D) $813 \mathrm{~J}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically thermodynamics and work done in different processes.",Thermodynamics,Adiabatic Processes and Work Done,5,Class 11 Physics Chapter 12,groq-llama-3.1-8b-instant
+2016,Physics,"The ends $\mathrm{Q}$ and $\mathrm{R}$ of two thin wires, $\mathrm{PQ}$ and RS, are soldered (joined) together. Initially each of the wires has a length of $1 \mathrm{~m}$ at $10^{\circ} \mathrm{C}$. Now the end $P$ is maintained at $10^{\circ} \mathrm{C}$, while the end $\mathrm{S}$ is heated and maintained at $400^{\circ} \mathrm{C}$. The system is thermally insulated from its surroundings. If the thermal conductivity of wire $\mathrm{PQ}$ is twice that of the wire $R S$ and the coefficient of linear thermal expansion of $\mathrm{PQ}$ is $1.2 \times 10^{-5} \mathrm{~K}^{-1}$, the change in length of the wire $P Q$ is
+
+(A) $0.78 \mathrm{~mm}$
+
+(B) $0.90 \mathrm{~mm}$
+
+(C) $1.56 \mathrm{~mm}$
+
+(D) $2.34 \mathrm{~mm}$",S3,Requires combining knowledge of thermal expansion and thermal conductivity.,Thermal Properties of Matter,Thermal Expansion,4,Class 11 Physics Chapter 10,groq-llama-3.1-8b-instant
+2016,Chemistry,"For the following electrochemical cell at $298 \mathrm{~K}$,
+
+$\mathrm{Pt}(s) \mid \mathrm{H}_{2}(g, 1$ bar $)\left|\mathrm{H}^{+}(aq, 1 \mathrm{M}) \| \mathrm{M}^{4+}(aq), \mathrm{M}^{2+}(aq)\right| \operatorname{Pt}(s)$
+
+$E_{\text {cell }}=0.092 \mathrm{~V}$ when $\frac{\left[\mathrm{M}^{2+}(aq)\right]}{\left[M^{4+}(aq)\right]}=10^{x}$.
+
+Given : $E_{\mathrm{M}^{4} / \mathrm{M}^{2+}}^{0}=0.151 \mathrm{~V} ; 2.303 \frac{R T}{F}=0.059 \mathrm{~V}$
+
+The value of $x$ is
+
+(A) -2
+
+(B) -1
+
+(C) 1
+
+(D) 2",S4,Requires numerical calculation using the Nernst equation.,Electrochemistry,Nernst Equation,4,Class 12 Chemistry Chapter 3,groq-llama-3.1-8b-instant
+2016,Chemistry,"The geometries of the ammonia complexes of $\mathrm{Ni}^{2+}, \mathrm{Pt}^{2+}$ and $\mathrm{Zn}^{2+}$, respectively, are
+
+(A) octahedral, square planar and tetrahedral
+
+(B) square planar, octahedral and tetrahedral
+
+(C) tetrahedral, square planar and octahedral
+
+(D) octahedral, tetrahedral and square planar",S3,Requires knowledge of coordination geometry and metal ions,Chapter 23,Coordination Compounds,4,Class 12 Chemistry Chapter 23,groq-llama-3.1-8b-instant
+2016,Mathematics,"Let $P=\left[\begin{array}{ccc}1 & 0 & 0 \\ 4 & 1 & 0 \\ 16 & 4 & 1\end{array}\right]$ and $I$ be the identity matrix of order 3. If $Q=\left[q_{i j}\right]$ is a matrix such that $P^{50}-Q=I$, then $\frac{q_{31}+q_{32}}{q_{21}}$ equals
+
+(A) 52
+
+(B) 103
+
+(C) 201
+
+(D) 205",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, such as matrix operations and properties.",Mathematics,Matrix Operations,4,Class 11 Mathematics Chapter 3.3,groq-llama-3.1-8b-instant
+2016,Mathematics,"Let $b_{i}>1$ for $i=1,2, \ldots, 101$. Suppose $\log _{e} b_{1}, \log _{e} b_{2}, \ldots, \log _{e} b_{101}$ are in Arithmetic Progression (A.P.) with the common difference $\log _{e} 2$. Suppose $a_{1}, a_{2}, \ldots, a_{101}$ are in A.P. such that $a_{1}=b_{1}$ and $a_{51}=b_{51}$. If $t=b_{1}+b_{2}+\cdots+b_{51}$ and $s=a_{1}+a_{2}+\cdots+a_{51}$, then
+
+(A) $s>t$ and $a_{101}>b_{101}$
+
+(B) $s>t$ and $a_{101}<b_{101}$
+
+(C) $s<t$ and $a_{101}>b_{101}$
+
+(D) $s<t$ and $a_{101}<b_{101}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically arithmetic progression and logarithms.",Mathematics,Arithmetic Progression and Logarithms,5,Class 11 Mathematics Chapter 8,groq-llama-3.1-8b-instant
+2016,Mathematics,"The value of $\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}} \frac{x^{2} \cos x}{1+e^{x}} d x$ is equal to
+
+(A) $\frac{\pi^{2}}{4}-2$
+
+(B) $\frac{\pi^{2}}{4}+2$
+
+(C) $\pi^{2}-e^{\frac{\pi}{2}}$
+
+(D) $\pi^{2}+e^{\frac{\pi}{2}}$",S3,Requires integration by parts and substitution,Calculus,Integration,4,Class 12 Maths Chapter 7,groq-llama-3.1-8b-instant
+2016,Mathematics,"Let $P$ be the image of the point $(3,1,7)$ with respect to the plane $x-y+z=3$. Then the equation of the plane passing through $P$ and containing the straight line $\frac{x}{1}=\frac{y}{2}=\frac{z}{1}$ is
+
+(A) $x+y-3 z=0$
+
+(B) $3 x+z=0$
+
+(C) $x-4 y+7 z=0$
+
+(D) $2 x-y=0$",S3,Requires combining knowledge of plane equations and line equations.,Mathematics,Three Dimensional Geometry,5,Class 12 Mathematics Three Dimensional Geometry,groq-llama-3.1-8b-instant
+2017,Physics,"Consider an expanding sphere of instantaneous radius $R$ whose total mass remains constant. The expansion is such that the instantaneous density $\rho$ remains uniform throughout the volume. The rate of fractional change in density $\left(\frac{1}{\rho} \frac{d \rho}{d t}\right)$ is constant. The velocity $v$ of any point on the surface of the expanding sphere is proportional to
+
+[A] $R$
+
+[B] $R^{3}$
+
+[C] $\frac{1}{R}$
+
+[D] $R^{2 / 3}$",S3,Combining knowledge of density and volume of a sphere with the concept of uniform density and constant rate of change in density.,Class 11 Physics,Properties of Matter,4,Chapter 2,groq-llama-3.1-8b-instant
+2017,Physics,"A photoelectric material having work-function $\phi_{0}$ is illuminated with light of wavelength $\lambda\left(\lambda<\frac{h c}{\phi_{0}}\right)$. The fastest photoelectron has a de Broglie wavelength $\lambda_{d}$. A change in wavelength of the incident light by $\Delta \lambda$ results in a change $\Delta \lambda_{d}$ in $\lambda_{d}$. Then the ratio $\Delta \lambda_{d} / \Delta \lambda$ is proportional to
+
+$[\mathrm{A}] \quad \lambda_{d} / \lambda$
+
+$[\mathrm{B}] \quad \lambda_{d}^{2} / \lambda^{2}$
+
+$[\mathrm{C}] \lambda_{d}^{3} / \lambda$
+
+$[\mathrm{D}] \lambda_{d}^{3} / \lambda^{2}$",S3,Requires combining knowledge from photoelectric effect and de Broglie wavelength,Class 11 Physics Chapter 13,Photoelectric Effect,4,NCERT Class 11 Physics Chapter 13 Page 246,groq-llama-3.1-8b-instant
+2017,Physics,"A rocket is launched normal to the surface of the Earth, away from the Sun, along the line joining the Sun and the Earth. The Sun is $3 \times 10^{5}$ times heavier than the Earth and is at a distance $2.5 \times 10^{4}$ times larger than the radius of the Earth. The escape velocity from Earth's gravitational field is $v_{e}=11.2 \mathrm{~km} \mathrm{~s}^{-1}$. The minimum initial velocity $\left(v_{S}\right)$ required for the rocket to be able to leave the Sun-Earth system is closest to
+
+(Ignore the rotation and revolution of the Earth and the presence of any other planet)
+
+$[\mathrm{A}] \quad v_{S}=22 \mathrm{~km} \mathrm{~s}^{-1}$
+
+$[\mathrm{B}] v_{S}=42 \mathrm{~km} \mathrm{~s}^{-1}$
+
+$[\mathrm{C}] \quad v_{S}=62 \mathrm{~km} \mathrm{~s}^{-1}$
+
+[D] $v_{S}=72 \mathrm{~km} \mathrm{~s}^{-1}$",S3,Combining knowledge of escape velocity and gravitational potential energy,Class 11 Physics Gravitation,Escape Velocity,4,Chapter 8,groq-llama-3.1-8b-instant
+2017,Physics,"A person measures the depth of a well by measuring the time interval between dropping a stone and receiving the sound of impact with the bottom of the well. The error in his measurement of time is $\delta T=0.01$ seconds and he measures the depth of the well to be $L=20$ meters. Take the acceleration due to gravity $g=10 \mathrm{~ms}^{-2}$ and the velocity of sound is $300 \mathrm{~ms}^{-1}$. Then the fractional error in the measurement, $\delta L / L$, is closest to
+
+[A] $0.2 \%$
+
+[B] $1 \%$
+
+[C] $3 \%$
+
+[D] $5 \%$",S4,"Requires numerical calculation, unit analysis, or formula application.",Mechanics,Error Analysis,4,Class 11 Physics Chapter 2,groq-llama-3.1-8b-instant
+2017,Chemistry,"For the following cell,
+
+\[
+\mathrm{Zn}(s)\left|\mathrm{ZnSO}_{4}(a q) \| \mathrm{CuSO}_{4}(a q)\right| \mathrm{Cu}(s)
+\]
+
+when the concentration of $\mathrm{Zn}^{2+}$ is 10 times the concentration of $\mathrm{Cu}^{2+}$, the expression for $\Delta G\left(\right.$ in $\left.\mathrm{J} \mathrm{mol}^{-1}\right)$ is
+
+[ $\mathrm{F}$ is Faraday constant; $\mathrm{R}$ is gas constant; $\mathrm{T}$ is temperature; $E^{o}($ cell $)=1.1 \mathrm{~V}$ ]
+
+[A] $1.1 \mathrm{~F}$
+
+[B] $2.303 \mathrm{RT}-2.2 \mathrm{~F}$
+
+[C] $2.303 \mathrm{RT}+1.1 \mathrm{~F}$
+
+[D]-2.2 \mathrm{~F}$",S3,Requires combining knowledge of electrochemistry and thermodynamics.,Electrochemistry,Electrochemical Cells,4,Class 12 Chemistry Chapter 3,groq-llama-3.1-8b-instant
+2017,Chemistry,"The standard state Gibbs free energies of formation of $\mathrm{C}$ (graphite) and $C$ (diamond) at $\mathrm{T}=298 \mathrm{~K}$ are
+
+\[
+\begin{gathered}
+
+\Delta_{f} G^{o}[\mathrm{C}(\text { graphite })]=0 \mathrm{~kJ} \mathrm{~mol} \\
+
+\Delta_{f} G^{o}[\mathrm{C}(\text { diamond })]=2.9 \mathrm{~kJ} \mathrm{~mol}^{-1} .
+
+\end{gathered}
+\]
+
+The standard state means that the pressure should be 1 bar, and substance should be pure at a given temperature. The conversion of graphite [ C(graphite)] to diamond [ C(diamond)] reduces its volume by $2 \times 10^{-6} \mathrm{~m}^{3} \mathrm{~mol}^{-1}$. If $\mathrm{C}$ (graphite) is converted to $\mathrm{C}$ (diamond) isothermally at $\mathrm{T}=298 \mathrm{~K}$, the pressure at which $\mathrm{C}$ (graphite) is in equilibrium with $\mathrm{C}($ diamond), is
+
+[Useful information: $1 \mathrm{~J}=1 \mathrm{~kg} \mathrm{~m}^{2} \mathrm{~s}^{-2} ; 1 \mathrm{~Pa}=1 \mathrm{~kg} \mathrm{~m}^{-1} \mathrm{~s}^{-2} ; 1$ bar $=10^{5} \mathrm{~Pa}$ ]
+
+[A] 14501 bar
+
+[B] 58001 bar
+
+[C] 1450 bar
+
+[D] 29001 bar",S3,Requires combining knowledge of thermodynamics and phase equilibrium,Chemistry,Thermodynamics,4,Class 11 Chemistry Chapter 5,groq-llama-3.1-8b-instant
+2017,Chemistry,"Which of the following combination will produce $\mathrm{H}_{2}$ gas?
+
+[A] Fe metal and conc. $\mathrm{HNO}_{3}$
+
+[B] Cu metal and conc. $\mathrm{HNO}_{3}$
+
+[C] $\mathrm{Zn}$ metal and $\mathrm{NaOH}(\mathrm{aq})$
+
+[D] Au metal and $\mathrm{NaCN}(\mathrm{aq})$ in the presence of air",S2,Knowledge of metal displacement reactions,Class 11 Chemistry Chapter 8,Redox Reactions,3,Class 11 Chemistry Chapter 8 Redox Reactions,groq-llama-3.1-8b-instant
+2017,Chemistry,"The order of the oxidation state of the phosphorus atom in $\mathrm{H}_{3} \mathrm{PO}_{2}, \mathrm{H}_{3} \mathrm{PO}_{4}, \mathrm{H}_{3} \mathrm{PO}_{3}$, and $\mathrm{H}_{4} \mathrm{P}_{2} \mathrm{O}_{6}$ is
+
+[A] $\mathrm{H}_{3} \mathrm{PO}_{3}>\mathrm{H}_{3} \mathrm{PO}_{2}>\mathrm{H}_{3} \mathrm{PO}_{4}>\mathrm{H}_{4} \mathrm{P}_{2} \mathrm{O}_{6}$
+
+[B] $\mathrm{H}_{3} \mathrm{PO}_{4}>\mathrm{H}_{3} \mathrm{PO}_{2}>\mathrm{H}_{3} \mathrm{PO}_{3}>\mathrm{H}_{4} \mathrm{P}_{2} \mathrm{O}_{6}$
+
+[C] $\mathrm{H}_{3} \mathrm{PO}_{4}>\mathrm{H}_{4} \mathrm{P}_{2} \mathrm{O}_{6}>\mathrm{H}_{3} \mathrm{PO}_{3}>\mathrm{H}_{3} \mathrm{PO}_{2}$
+
+[D] $\mathrm{H}_{3} \mathrm{PO}_{2}>\mathrm{H}_{3} \mathrm{PO}_{3}>\mathrm{H}_{4} \mathrm{P}_{2} \mathrm{O}_{6}>\mathrm{H}_{3} \mathrm{PO}_{4}$",S2,Applying the principle of oxidation state calculation to different compounds,Chemical Bonding and Molecular Structure,Oxidation States,4,Class 11 Chemistry Chapter 8 N,groq-llama-3.1-8b-instant
+2017,Mathematics,"The equation of the plane passing through the point $(1,1,1)$ and perpendicular to the planes $2 x+y-2 z=5$ and $3 x-6 y-2 z=7$, is
+
+[A] $14 x+2 y-15 z=1$
+
+[B] $14 x-2 y+15 z=27$
+
+[C] $\quad 14 x+2 y+15 z=31$
+
+[D] $-14 x+2 y+15 z=3$",S3,Combining knowledge of normal vectors and plane equations.,Mathematics,Three Dimensional Geometry,4,Class 11 Mathematics Chapter 11,groq-llama-3.1-8b-instant
+2017,Mathematics,"Let $O$ be the origin and let $P Q R$ be an arbitrary triangle. The point $S$ is such that
+
+\[
+\overrightarrow{O P} \cdot \overrightarrow{O Q}+\overrightarrow{O R} \cdot \overrightarrow{O S}=\overrightarrow{O R} \cdot \overrightarrow{O P}+\overrightarrow{O Q} \cdot \overrightarrow{O S}=\overrightarrow{O Q} \cdot \overrightarrow{O R}+\overrightarrow{O P} \cdot \overrightarrow{O S}
+\]
+
+Then the triangle $P Q R$ has $S$ as its
+
+[A] centroid
+
+[B] circumcentre
+
+[C] incentre
+
+[D] orthocenter",S3,Combining knowledge of vectors and triangle properties.,Class 11 Mathematics Vectors,Properties of Vectors,4,Class 11 Mathematics Vectors Chapter 10,groq-llama-3.1-8b-instant
+2017,Mathematics,"If $y=y(x)$ satisfies the differential equation
+\[
+8 \sqrt{x}(\sqrt{9+\sqrt{x}}) d y=(\sqrt{4+\sqrt{9+\sqrt{x}}})^{-1} d x, \quad x>0
+\]
+
+and $y(0)=\sqrt{7}$, then $y(256)=$
+
+[A] 3
+
+[B] 9
+
+[C] 16
+
+[D] 80",S3,Combining knowledge of differential equations and integration.,Differential Equations,Separable Differential Equations,5,Class 12 Maths Chapter 9,groq-llama-3.1-8b-instant
+2017,Mathematics,"If $f: \mathbb{R} \rightarrow \mathbb{R}$ is a twice differentiable function such that $f^{\prime \prime}(x)>0$ for all $x \in \mathbb{R}$, and $f\left(\frac{1}{2}\right)=\frac{1}{2}, f(1)=1$, then
+
+[A] $f^{\prime}(1) \leq 0$
+
+[B] $0<f^{\prime}(1) \leq \frac{1}{2}$
+
+[C] $\frac{1}{2}<f^{\prime}(1) \leq 1$
+
+[D] $f^{\prime}(1)>1$",S3,Combining knowledge of derivatives and properties of concave functions.,Calculus,Properties of Concave Functions,4,Class 11 Maths Chapter 6,groq-llama-3.1-8b-instant
+2017,Mathematics,"How many $3 \times 3$ matrices $M$ with entries from $\{0,1,2\}$ are there, for which the sum of the diagonal entries of $M^{T} M$ is $5 ?$
+
+[A] 126
+
+[B] 198
+
+[C] 162
+
+[D] 135",S4,Requires numerical calculation to find the number of matrices.,Linear Algebra,Matrix Operations,4,Class 11 Mathematics Chapter 3.1,groq-llama-3.1-8b-instant
+2017,Mathematics,"Let $S=\{1,2,3, \ldots, 9\}$. For $k=1,2, \ldots, 5$, let $N_{k}$ be the number of subsets of $S$, each containing five elements out of which exactly $k$ are odd. Then $N_{1}+N_{2}+N_{3}+N_{4}+N_{5}=$
+
+[A] 210
+
+[B] 252
+
+[C] 125
+
+[D] 126",S3,Requires combining knowledge from combinatorics and set theory.,Combinations and Permutations,Set Theory,4,Class 11 Mathematics Combinations and Permutations 1.1,groq-llama-3.1-8b-instant
+2017,Mathematics,"Three randomly chosen nonnegative integers $x, y$ and $z$ are found to satisfy the equation $x+y+z=10$. Then the probability that $z$ is even, is
+
+[A] $\frac{36}{55}$
+
+[B] $\frac{6}{11}$
+
+[C] $\frac{1}{2}$
+
+[D] $\frac{5}{11}$",S3,Combining knowledge of probability and number theory.,Probability,Random Variables,4,Class 11 Maths Chapter 16,groq-llama-3.1-8b-instant
+2019,Physics,"Consider a spherical gaseous cloud of mass density $\rho(r)$ in free space where $r$ is the radial distance from its center. The gaseous cloud is made of particles of equal mass $m$ moving in circular orbits about the common center with the same kinetic energy $K$. The force acting on the particles is their mutual gravitational force. If $\rho(r)$ is constant in time, the particle number density $n(r)=\rho(r) / m$ is
+
+[ $G$ is universal gravitational constant]
+
+(A) $\frac{K}{2 \pi r^{2} m^{2} G}$
+
+(B) $\frac{K}{\pi r^{2} m^{2} G}$
+
+(C) $\frac{3 K}{\pi r^{2} m^{2} G}$
+
+(D) $\frac{K}{6 \pi r^{2} m^{2} G}$",S3,Requires combining knowledge of gravitational force and kinetic energy to derive particle number density.,Class 11/12 Physics Gravitation,Gravitational Potential Energy and Force,4,Class 11 Physics Chapter 8 N,groq-llama-3.1-8b-instant
+2019,Physics,"A thin spherical insulating shell of radius $R$ carries a uniformly distributed charge such that the potential at its surface is $V_{0}$. A hole with a small area $\alpha 4 \pi R^{2}(\alpha \ll 1)$ is made on the shell without affecting the rest of the shell. Which one of the following statements is correct?
+
+(A) The potential at the center of the shell is reduced by $2 \alpha V_{0}$
+
+(B) The magnitude of electric field at the center of the shell is reduced by $\frac{\alpha V_{0}}{2 R}$
+
+(C) The ratio of the potential at the center of the shell to that of the point at $\frac{1}{2} R$ from center towards the hole will be $\frac{1-\alpha}{1-2 \alpha}$
+
+(D) The magnitude of electric field at a point, located on a line passing through the hole and shell's center, on a distance $2 R$ from the center of the spherical shell will be reduced by $\frac{\alpha V_{0}}{2 R}$",S5,Requires verification of multiple claims to identify the correct statement,Electrostatics,Electric Potential and Field,5,Class 12 Physics Chapter 24,groq-llama-3.1-8b-instant
+2019,Physics,"A current carrying wire heats a metal rod. The wire provides a constant power $(P)$ to the rod. The metal rod is enclosed in an insulated container. It is observed that the temperature $(T)$ in the metal rod changes with time $(t)$ as
+
+\[
+T(t)=T_{0}\left(1+\beta t^{\frac{1}{4}}\right)
+\]
+
+where $\beta$ is a constant with appropriate dimension while $T_{0}$ is a constant with dimension of temperature. The heat capacity of the metal is,
+
+(A) $\frac{4 P\left(T(t)-T_{0}\right)^{3}}{\beta^{4} T_{0}^{4}}$
+
+(B) $\frac{4 P\left(T(t)-T_{0}\right)^{4}}{\beta^{4} T_{0}^{5}}$
+
+(C) $\frac{4 P\left(T(t)-T_{0}\right)^{2}}{\beta^{4} T_{0}^{3}}$
+
+(D) $\frac{4 P\left(T(t)-T_{0}\right)}{\beta^{4} T_{0}^{2}}$",S3,Combining knowledge of heat transfer and temperature-time relation.,Thermodynamics,Heat Transfer,4,Class 11 Physics Chapter 12,groq-llama-3.1-8b-instant
+2019,Physics,"In a radioactive sample, ${ }_{19}^{40} \mathrm{~K}$ nuclei either decay into stable ${ }_{20}^{40} \mathrm{Ca}$ nuclei with decay constant $4.5 \times 10^{-10}$ per year or into stable ${ }_{18}^{40} \mathrm{Ar}$ nuclei with decay constant $0.5 \times 10^{-10}$ per year. Given that in this sample all the stable ${ }_{20}^{40} \mathrm{Ca}$ and ${ }_{18}^{40} \mathrm{Ar}$ nuclei are produced by the ${ }_{19}^{40} \mathrm{~K}$ nuclei only. In time $t \times 10^{9}$ years, if the ratio of the sum of stable ${ }_{20}^{40} \mathrm{Ca}$ and ${ }_{18}^{40} \mathrm{Ar}$ nuclei to the radioactive ${ }_{19}^{40} \mathrm{~K}$ nuclei is 99 , the value of $t$ will be,
+
+[Given: $\ln 10=2.3]$
+
+(A) 1.15
+
+(B) 9.2
+
+(C) 2.3
+
+(D) 4.6",S3,Requires combining knowledge of radioactive decay and nuclear reactions.,Nuclear Physics,Radioactive Decay,4,Class 12 Physics Chapter 13,groq-llama-3.1-8b-instant
+2019,Chemistry,"The green colour produced in the borax bead test of a chromium(III) salt is due to
+
+(A) $\mathrm{Cr}\left(\mathrm{BO}_{2}\right)_{3}$
+
+(B) $\mathrm{Cr}_{2}\left(\mathrm{~B}_{4} \mathrm{O}_{7}\right)_{3}$
+
+(C) $\mathrm{Cr}_{2} \mathrm{O}_{3}$
+
+(D) $\mathrm{CrB}$",S2,Applying knowledge of borax bead test to chromium(III) salt,Class 11 Chemistry Chapter 8,Borax Bead Test,3,Class 11 Chemistry Chapter 8.3,groq-llama-3.1-8b-instant
+2019,Chemistry,"Calamine, malachite, magnetite and cryolite, respectively, are
+
+(A) $\mathrm{ZnSO}_{4}, \mathrm{CuCO}_{3}, \mathrm{Fe}_{2} \mathrm{O}_{3}, \mathrm{AlF}_{3}$
+
+(B) $\mathrm{ZnSO}_{4}, \mathrm{Cu}(\mathrm{OH})_{2}, \mathrm{Fe}_{3} \mathrm{O}_{4}, \mathrm{Na}_{3} \mathrm{AlF}_{6}$
+
+(C) $\mathrm{ZnCO}_{3}, \mathrm{CuCO}_{3} \cdot \mathrm{Cu}(\mathrm{OH})_{2}, \mathrm{Fe}_{3} \mathrm{O}_{4}, \mathrm{Na}_{3} \mathrm{AlF}_{6}$
+
+(D) $\mathrm{ZnCO}_{3}, \mathrm{CuCO}_{3}, \mathrm{Fe}_{2} \mathrm{O}_{3}, \mathrm{Na}_{3} \mathrm{AlF}_{6}$",S2,Applying knowledge of chemical formulas of given compounds.,Class 11/12 Chemistry,Chemical Formulae,3,Class 11 Chemistry Chapter 2,groq-llama-3.1-8b-instant
+2019,Mathematics,"Let $S$ be the set of all complex numbers $Z$ satisfying $|z-2+i| \geq \sqrt{5}$. If the complex number $Z_{0}$ is such that $\frac{1}{\left|Z_{0}-1\right|}$ is the maximum of the set $\left\{\frac{1}{|z-1|}: z \in S\right\}$, then the principal argument of $\frac{4-z_{0}-\overline{z_{0}}}{Z_{0}-\overline{z_{0}}+2 i}$ is
+
+(A) $-\frac{\pi}{2}$
+
+(B) $\frac{\pi}{4}$
+
+(C) $\frac{\pi}{2}$
+
+(D) $\frac{3 \pi}{4}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically complex numbers and their geometric representation.",Complex Numbers,Geometric Representation and Modulus,5,Class 11 Mathematics Chapter 5,groq-llama-3.1-8b-instant
+2019,Mathematics,"Let
+
+\[
+M=\left[\begin{array}{cc}
+
+\sin ^{4} \theta & -1-\sin ^{2} \theta \\
+
+1+\cos ^{2} \theta & \cos ^{4} \theta
+
+\end{array}\right]=\alpha I+\beta M^{-1}
+\]
+
+where $\alpha=\alpha(\theta)$ and $\beta=\beta(\theta)$ are real numbers, and $I$ is the $2 \times 2$ identity matrix. If
+
+$\alpha^{*}$ is the minimum of the set $\{\alpha(\theta): \theta \in[0,2 \pi)\}$ and
+
+$\beta^{*}$ is the minimum of the set $\{\beta(\theta): \theta \in[0,2 \pi)\}$
+
+then the value of $\alpha^{*}+\beta^{*}$ is
+
+(A) $-\frac{37}{16}$
+
+(B) $-\frac{31}{16}$
+
+(C) $-\frac{29}{16}$
+
+(D) $-\frac{17}{16}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, such as matrix operations and trigonometric identities.",Class 11/12 Mathematics Matrices,Properties of Matrices,5,Class 11 Mathematics Chapter 3.3,groq-llama-3.1-8b-instant
+2019,Mathematics,"A line $y=m x+1$ intersects the circle $(x-3)^{2}+(y+2)^{2}=25$ at the points $P$ and $Q$. If the midpoint of the line segment $P Q$ has $x$-coordinate $-\frac{3}{5}$, then which one of the following options is correct?
+
+(A) $-3 \leq m<-1$
+
+(B) $2 \leq m<4$
+
+(C) $4 \leq m<6$
+
+(D) $6 \leq m<8$",S3,Combining knowledge of circle equations and line equations to solve for m.,Mathematics,Coordinate Geometry,4,Class 11 Mathematics Chapter 10,groq-llama-3.1-8b-instant
+2019,Mathematics,"The area of the region $\left\{(x, y): x y \leq 8,1 \leq y \leq x^{2}\right\}$ is
+
+(A) $16 \log _{e} 2-\frac{14}{3}$
+
+(B) $8 \log _{e} 2-\frac{14}{3}$
+
+(C) $16 \log _{e} 2-6$
+
+(D) $8 \log _{e} 2-\frac{7}{3}$",S3,Requires combining knowledge of integration and region boundaries,Mathematics,Definite Integrals,5,Class 12 Mathematics Chapter 8,groq-llama-3.1-8b-instant
+2020,Chemistry,"Which of the following liberates $\mathrm{O}_{2}$ upon hydrolysis?
+
+(A) $\mathrm{Pb}_{3} \mathrm{O}_{4}$
+
+(B) $\mathrm{KO}_{2}$
+
+(C) $\mathrm{Na}_{2} \mathrm{O}_{2}$
+
+(D) $\mathrm{Li}_{2} \mathrm{O}_{2}$",S5,Requires verification of multiple claims about hydrolysis of given compounds,Chapter 4,Group 1 and 2 Elements,4,Class 11 Chemistry Chapter 4,groq-llama-3.1-8b-instant
+2020,Chemistry,"A colorless aqueous solution contains nitrates of two metals, $\mathbf{X}$ and $\mathbf{Y}$. When it was added to an aqueous solution of $\mathrm{NaCl}$, a white precipitate was formed. This precipitate was found to be partly soluble in hot water to give a residue $\mathbf{P}$ and a solution $\mathbf{Q}$. The residue $\mathbf{P}$ was soluble in aq. $\mathrm{NH}_{3}$ and also in excess sodium thiosulfate. The hot solution $\mathbf{Q}$ gave a yellow precipitate with KI. The metals $\mathbf{X}$ and $\mathbf{Y}$, respectively, are
+
+(A) Ag and $\mathrm{Pb}$
+
+(B) Ag and Cd
+
+(C) $\mathrm{Cd}$ and $\mathrm{Pb}$
+
+(D) Cd and Zn",S3,Requires combining knowledge from two or more distinct chapters/topics simultaneously.,Class 11/12 Chemistry,"Group 1 and 2 Elements, Group 12 and 14 Elements",4,"Class 11 Chemistry Chapter 8, Class 12 Chemistry Chapter 8",groq-llama-3.1-8b-instant
+2020,Mathematics,"Suppose $a, b$ denote the distinct real roots of the quadratic polynomial $x^{2}+20 x-2020$ and suppose $c, d$ denote the distinct complex roots of the quadratic polynomial $x^{2}-20 x+2020$. Then the value of
+
+\[
+a c(a-c)+a d(a-d)+b c(b-c)+b d(b-d)
+\]
+
+is
+
+(A) 0
+
+(B) 8000
+
+(C) 8080
+
+(D) 16000",S3,Combining knowledge of quadratic equations and Vieta's formulas.,Mathematics,Quadratic Equations,4,Class 11 Mathematics Chapter 5,groq-llama-3.1-8b-instant
+2020,Mathematics,"If the function $f: \mathbb{R} \rightarrow \mathbb{R}$ is defined by $f(x)=|x|(x-\sin x)$, then which of the following statements is TRUE?
+
+(A) $f$ is one-one, but NOT onto
+
+(B) $f$ is onto, but NOT one-one
+
+(C) $f$ is BOTH one-one and onto
+
+(D) $f$ is NEITHER one-one NOR onto",S5,Requires verification of multiple claims about function properties,Functions,Properties of Functions,4,Class 11 Maths Chapter 1,groq-llama-3.1-8b-instant
+2020,Mathematics,"Let the functions $f: \mathbb{R} \rightarrow \mathbb{R}$ and $g: \mathbb{R} \rightarrow \mathbb{R}$ be defined by
+
+\[
+f(x)=e^{x-1}-e^{-|x-1|} \quad \text { and } \quad g(x)=\frac{1}{2}\left(e^{x-1}+e^{1-x}\right)
+\]
+
+Then the area of the region in the first quadrant bounded by the curves $y=f(x), y=g(x)$ and $x=0$ is
+
+(A) $(2-\sqrt{3})+\frac{1}{2}\left(e-e^{-1}\right)$
+
+(B) $(2+\sqrt{3})+\frac{1}{2}\left(e-e^{-1}\right)$
+
+(C) $(2-\sqrt{3})+\frac{1}{2}\left(e+e^{-1}\right)$
+
+(D) $(2+\sqrt{3})+\frac{1}{2}\left(e+e^{-1}\right)$",S3,Requires combining knowledge of functions and area under curves.,Functions,Area under curves,5,Class 12 Maths Chapter 5,groq-llama-3.1-8b-instant
+2020,Mathematics,"Let $a, b$ and $\lambda$ be positive real numbers. Suppose $P$ is an end point of the latus rectum of the parabola $y^{2}=4 \lambda x$, and suppose the ellipse $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$ passes through the point $P$. If the tangents to the parabola and the ellipse at the point $P$ are perpendicular to each other, then the eccentricity of the ellipse is
+
+(A) $\frac{1}{\sqrt{2}}$
+
+(B) $\frac{1}{2}$
+
+(C) $\frac{1}{3}$
+
+(D) $\frac{2}{5}$",S3,Combining knowledge of parabola and ellipse equations to solve for eccentricity.,"Mathematics, Class 11, Coordinate Geometry",Parabola and Ellipse,5,Class 11 Mathematics Chapter 11,groq-llama-3.1-8b-instant
+2020,Mathematics,"Let $C_{1}$ and $C_{2}$ be two biased coins such that the probabilities of getting head in a single toss are $\frac{2}{3}$ and $\frac{1}{3}$, respectively. Suppose $\alpha$ is the number of heads that appear when $C_{1}$ is tossed twice, independently, and suppose $\beta$ is the number of heads that appear when $C_{2}$ is tossed twice, independently. Then the probability that the roots of the quadratic polynomial $x^{2}-\alpha x+\beta$ are real and equal, is
+
+(A) $\frac{40}{81}$
+
+(B) $\frac{20}{81}$
+
+(C) $\frac{1}{2}$
+
+(D) $\frac{1}{4}$",S3,Requires combining knowledge of probability and quadratic equations.,Probability,Conditional Probability,5,Class 11 Maths Chapter 16,groq-llama-3.1-8b-instant
+2020,Mathematics,"Consider all rectangles lying in the region
+
+\[
+\left\{(x, y) \in \mathbb{R} \times \mathbb{R}: 0 \leq x \leq \frac{\pi}{2} \text { and } 0 \leq y \leq 2 \sin (2 x)\right\}
+\]
+
+and having one side on the $x$-axis. The area of the rectangle which has the maximum perimeter among all such rectangles, is
+
+(A) $\frac{3 \pi}{2}$
+
+(B) $\pi$
+
+(C) $\frac{\pi}{2 \sqrt{3}}$
+
+(D) $\frac{\pi \sqrt{3}}{2}$",S3,Requires combining knowledge of geometry and calculus to find the maximum perimeter.,Mathematics,Calculus,5,Class 12 Mathematics Calculus Chapter 5,groq-llama-3.1-8b-instant
+2021,Physics,"A heavy nucleus $Q$ of half-life 20 minutes undergoes alpha-decay with probability of $60 \%$ and beta-decay with probability of $40 \%$. Initially, the number of $Q$ nuclei is 1000. The number of alpha-decays of $Q$ in the first one hour is
+
+(A) 50
+
+(B) 75
+
+(C) 350
+
+(D) 525",S3,"Combining knowledge of half-life, alpha-decay, and probability of decay.",Nuclear Physics,Radioactive Decay,4,Class 12 Physics Chapter 13,groq-llama-3.1-8b-instant
+2021,Chemistry,"The calculated spin only magnetic moments of $\left[\mathrm{Cr}\left(\mathrm{NH}_{3}\right)_{6}\right]^{3+}$ and $\left[\mathrm{CuF}_{6}\right]^{3-}$ in $\mathrm{BM}$, respectively, are
+
+(Atomic numbers of $\mathrm{Cr}$ and $\mathrm{Cu}$ are 24 and 29, respectively)
+
+(A) 3.87 and 2.84
+
+(B) 4.90 and 1.73
+
+(C) 3.87 and 1.73
+
+(D) 4.90 and 2.84",S2,Applying magnetic moment formula to coordination compounds,Chapter 1: Some Basic Concepts in Chemistry,Magnetic Properties of Coordination Compounds,4,Class 12 Chemistry Chapter 1,groq-llama-3.1-8b-instant
+2021,Mathematics,"Consider a triangle $\Delta$ whose two sides lie on the $x$-axis and the line $x+y+1=0$. If the orthocenter of $\Delta$ is $(1,1)$, then the equation of the circle passing through the vertices of the triangle $\Delta$ is
+
+(A) $x^{2}+y^{2}-3 x+y=0$
+
+(B) $x^{2}+y^{2}+x+3 y=0$
+
+(C) $x^{2}+y^{2}+2 y-1=0$
+
+(D) $x^{2}+y^{2}+x+y=0$",S3,Requires combining knowledge of circle equation and properties of orthocenter.,Class 11 Mathematics Circles,Equation of a circle,4,Class 11 Mathematics Circles Chapter 10,groq-llama-3.1-8b-instant
+2021,Mathematics,"The area of the region
+
+\[
+\left\{(x, y): 0 \leq x \leq \frac{9}{4}, \quad 0 \leq y \leq 1, \quad x \geq 3 y, \quad x+y \geq 2\right\}
+\]
+
+is
+
+(A) $\frac{11}{32}$
+
+(B) $\frac{35}{96}$
+
+(C) $\frac{37}{96}$
+
+(D) $\frac{13}{32}$",S3,Requires knowledge of inequalities and area calculation,Mathematics,Coordinate Geometry,4,Class 11 Maths Chapter 7,groq-llama-3.1-8b-instant
+2021,Mathematics,"Consider three sets $E_{1}=\{1,2,3\}, F_{1}=\{1,3,4\}$ and $G_{1}=\{2,3,4,5\}$. Two elements are chosen at random, without replacement, from the set $E_{1}$, and let $S_{1}$ denote the set of these chosen elements. Let $E_{2}=E_{1}-S_{1}$ and $F_{2}=F_{1} \cup S_{1}$. Now two elements are chosen at random, without replacement, from the set $F_{2}$ and let $S_{2}$ denote the set of these chosen elements.
+
+Let $G_{2}=G_{1} \cup S_{2}$. Finally, two elements are chosen at random, without replacement, from the set $G_{2}$ and let $S_{3}$ denote the set of these chosen elements.
+
+Let $E_{3}=E_{2} \cup S_{3}$. Given that $E_{1}=E_{3}$, let $p$ be the conditional probability of the event $S_{1}=\{1,2\}$. Then the value of $p$ is
+
+(A) $\frac{1}{5}$
+
+(B) $\frac{3}{5}$
+
+(C) $\frac{1}{2}$
+
+(D) $\frac{2}{5}$",S3,Requires combining knowledge from probability and set theory simultaneously.,Probability,Conditional Probability,5,Class 12 Maths Chapter 13,groq-llama-3.1-8b-instant
+2021,Mathematics,"Let $\theta_{1}, \theta_{2}, \ldots, \theta_{10}$ be positive valued angles (in radian) such that $\theta_{1}+\theta_{2}+\cdots+\theta_{10}=2 \pi$. Define the complex numbers $z_{1}=e^{i \theta_{1}}, z_{k}=z_{k-1} e^{i \theta_{k}}$ for $k=2,3, \ldots, 10$, where $i=\sqrt{-1}$. Consider the statements $P$ and $Q$ given below:
+
+\[
+\begin{aligned}
+
+& P:\left|z_{2}-z_{1}\right|+\left|z_{3}-z_{2}\right|+\cdots+\left|z_{10}-z_{9}\right|+\left|z_{1}-z_{10}\right| \leq 2 \pi \\
+
+& Q:\left|z_{2}^{2}-z_{1}^{2}\right|+\left|z_{3}^{2}-z_{2}^{2}\right|+\cdots+\left|z_{10}^{2}-z_{9}^{2}\right|+\left|z_{1}^{2}-z_{10}^{2}\right| \leq 4 \pi
+
+\end{aligned}
+\]
+
+Then,
+
+(A) $P$ is TRUE and $Q$ is FALSE
+
+(B) $Q$ is TRUE and $P$ is FALSE
+
+(C) both $P$ and $Q$ are TRUE
+
+(D) both $P$ and $Q$ are FALSE",S3,Requires combining knowledge of complex numbers and properties of absolute value.,Complex Numbers,Properties of Complex Numbers,5,Class 11 Mathematics Chapter 5,groq-llama-3.1-8b-instant
+2021,Chemistry,"Correct match of the $\mathbf{C}-\mathbf{H}$ bonds (shown in bold) in Column $\mathbf{J}$ with their BDE in Column $\mathbf{K}$ is
+
+\begin{center}
+
+\begin{tabular}{|c|c|}
+
+\hline
+
+$\begin{array}{l}\text { Column J } \\ \text { Molecule }\end{array}$ & $\begin{array}{c}\text { Column K } \\ \text { BDE }\left(\text { kcal mol }^{-1}\right)\end{array}$ \\
+
+\hline
+
+(P) $\mathbf{H}-\mathrm{CH}\left(\mathrm{CH}_{3}\right)_{2}$ & (i) 132 \\
+
+\hline
+
+(Q) $\mathbf{H}-\mathrm{CH}_{2} \mathrm{Ph}$ & (ii) 110 \\
+
+\hline
+
+(R) $\mathbf{H}-\mathrm{CH}=\mathrm{CH}_{2}$ & (iii) 95 \\
+
+\hline
+
+(S) $\mathrm{H}-\mathrm{C} \equiv \mathrm{CH}$ & (iv) 88 \\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+(A) $P$ - iii, $Q$ - iv, R - ii, S - i
+
+(B) $P-i, Q-i i, R-$ iii, S - iv
+
+(C) P - iii, Q - ii, R - i, S - iv
+
+(D) $P-i i, Q-i, R-i v, S-i i i$",S3,Requires combining knowledge of bond dissociation energy (BDE) and the types of C-H bonds.,Organic Chemistry,Bond Dissociation Energy,4,Class 11 Chemistry Chapter 13,groq-llama-3.1-8b-instant
+2021,Chemistry,"The reaction of $\mathrm{K}_3\left[\mathrm{Fe}(\mathrm{CN})_6\right]$ with freshly prepared $\mathrm{FeSO}_4$ solution produces a dark blue precipitate called Turnbull's blue. Reaction of $\mathrm{K}_4\left[\mathrm{Fe}(\mathrm{CN})_6\right]$ with the $\mathrm{FeSO}_4$ solution in complete absence of air produces a white precipitate $\mathbf{X}$, which turns blue in air. Mixing the $\mathrm{FeSO}_4$ solution with $\mathrm{NaNO}_3$, followed by a slow addition of concentrated $\mathrm{H}_2 \mathrm{SO}_4$ through the side of the test tube produces a brown ring. Precipitate $\mathbf{X}$ is
+
+(A) $\mathrm{Fe}_{4}\left[\mathrm{Fe}(\mathrm{CN})_{6}\right]_{3}$
+
+(B) $\mathrm{Fe}\left[\mathrm{Fe}(\mathrm{CN})_{6}\right]$
+
+(C) $\mathrm{K}_{2} \mathrm{Fe}\left[\mathrm{Fe}(\mathrm{CN})_{6}\right]$
+
+(D) $\mathrm{KFe}\left[\mathrm{Fe}(\mathrm{CN})_{6}\right]$",S3,Requires combining knowledge of coordination compounds and redox reactions.,Coordination Compounds,Redox Reactions,4,Class 12 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2021,Chemistry,"The reaction of $\mathrm{K}_3\left[\mathrm{Fe}(\mathrm{CN})_6\right]$ with freshly prepared $\mathrm{FeSO}_4$ solution produces a dark blue precipitate called Turnbull's blue. Reaction of $\mathrm{K}_4\left[\mathrm{Fe}(\mathrm{CN})_6\right]$ with the $\mathrm{FeSO}_4$ solution in complete absence of air produces a white precipitate $\mathbf{X}$, which turns blue in air. Mixing the $\mathrm{FeSO}_4$ solution with $\mathrm{NaNO}_3$, followed by a slow addition of concentrated $\mathrm{H}_2 \mathrm{SO}_4$ through the side of the test tube produces a brown ring. Among the following, the brown ring is due to the formation of
+
+(A) $\left[\mathrm{Fe}(\mathrm{NO})_{2}\left(\mathrm{SO}_{4}\right)_{2}\right]^{2-}$
+
+(B) $\left[\mathrm{Fe}(\mathrm{NO})_{2}\left(\mathrm{H}_{2} \mathrm{O}\right)_{4}\right]^{3+}$
+
+(C) $\left[\mathrm{Fe}(\mathrm{NO})_{4}\left(\mathrm{SO}_{4}\right)_{2}\right]$
+
+(D) $\left[\mathrm{Fe}(\mathrm{NO})\left(\mathrm{H}_{2} \mathrm{O}\right)_{5}\right]^{2+}$",S3,Requires combining knowledge of coordination compounds and redox reactions.,Coordination Compounds,Redox Reactions,4,Class 12 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2021,Mathematics,"Let
+\[\mathrm{M}=\left\{(\mathrm{x}, \mathrm{y}) \in \mathbb{R} \times \mathbb{R}: \mathrm{x}^2+\mathrm{y}^2 \leq \mathrm{r}^2\right\}\]
+where $\mathrm{r}>0$. Consider the geometric progression $a_n=\frac{1}{2^{n-1}}, n=1,2,3, \ldots$. Let $S_0=0$ and, for $n \geq 1$, let $S_n$ denote the sum of the first $n$ terms of this progression. For $n \geq 1$, let $C_n$ denote the circle with center $\left(S_{n-1}, 0\right)$ and radius $a_n$, and $D_n$ denote the circle with center $\left(S_{n-1}, S_{n-1}\right)$ and radius $a_n$. Consider $M$ with $r=\frac{1025}{513}$. Let $k$ be the number of all those circles $C_{n}$ that are inside $M$. Let $l$ be the maximum possible number of circles among these $k$ circles such that no two circles intersect. Then
+
+(A) $k+2 l=22$
+
+(B) $2 k+l=26$
+
+(C) $2 k+3 l=34$
+
+(D) $3 k+2 l=40$",S3,"Requires combining knowledge from two or more distinct chapters/topics simultaneously, specifically geometry and sequences.",11/12 Mathematics Circle,Geometry and Sequences,5,"Class 11 Mathematics Chapter 10, Class 11 Mathematics Chapter 12",groq-llama-3.1-8b-instant
+2021,Mathematics,"Let
+\[\mathrm{M}=\left\{(\mathrm{x}, \mathrm{y}) \in \mathbb{R} \times \mathbb{R}: \mathrm{x}^2+\mathrm{y}^2 \leq \mathrm{r}^2\right\}\]
+where $\mathrm{r}>0$. Consider the geometric progression $a_n=\frac{1}{2^{n-1}}, n=1,2,3, \ldots$. Let $S_0=0$ and, for $n \geq 1$, let $S_n$ denote the sum of the first $n$ terms of this progression. For $n \geq 1$, let $C_n$ denote the circle with center $\left(S_{n-1}, 0\right)$ and radius $a_n$, and $D_n$ denote the circle with center $\left(S_{n-1}, S_{n-1}\right)$ and radius $a_n$. Consider $M$ with $r=\frac{\left(2^{199}-1\right) \sqrt{2}}{2^{198}}$. The number of all those circles $D_{n}$ that are inside $M$ is
+
+(A) 198
+
+(B) 199
+
+(C) 200
+
+(D) 201",S3,"Requires combining knowledge from two or more distinct chapters/topics simultaneously, specifically geometry and sequences.",Mathematics,Coordinate Geometry and Sequences,5,"Class 11 Mathematics Chapter 11, Class 11 Mathematics Chapter 10",groq-llama-3.1-8b-instant
+2021,Mathematics,"Let $\psi_1:[0, \infty) \rightarrow \mathbb{R}, \psi_2:[0, \infty) \rightarrow \mathbb{R}, f:[0, \infty) \rightarrow \mathbb{R}$ and $g:[0, \infty) \rightarrow \mathbb{R}$ be functions such that
+\[\begin{aligned}
+& f(0)=\mathrm{g}(0)=0, \\
+& \psi_1(\mathrm{x})=\mathrm{e}^{-\mathrm{x}}+\mathrm{x}, \quad \mathrm{x} \geq 0, \\
+& \psi_2(\mathrm{x})=\mathrm{x}^2-2 \mathrm{x}-2 \mathrm{e}^{-\mathrm{x}}+2, \mathrm{x} \geq 0, \\
+& f(\mathrm{x})=\int_{-\mathrm{x}}^{\mathrm{x}}\left(|\mathrm{t}|-\mathrm{t}^2\right) \mathrm{e}^{-\mathrm{t}^2} \mathrm{dt}, \mathrm{x}>0
+\end{aligned}\]
+and
+\[g(x)=\int_0^{x^2} \sqrt{t} e^{-t} d t, x>0\]. Which of the following statements is TRUE?
+
+(A) $f(\sqrt{\ln 3})+g(\sqrt{\ln 3})=\frac{1}{3}$
+
+(B) For every $x>1$, there exists an $\alpha \in(1, x)$ such that $\psi_{1}(x)=1+\alpha x$
+
+(C) For every $x>0$, there exists a $\beta \in(0, x)$ such that $\psi_{2}(x)=2 x\left(\psi_{1}(\beta)-1\right)$
+
+(D) $f$ is an increasing function on the interval $\left[0, \frac{3}{2}\right]$",S3,Combining knowledge from distinct chapters/topics simultaneously to evaluate the given statements.,Calculus,Integration and Functions,5,Class 12 Mathematics Chapter 7,groq-llama-3.1-8b-instant
+2022,Mathematics,"Consider the following lists:
+List-I
+(I) $\left\{x \in\left[-\frac{2 \pi}{3}, \frac{2 \pi}{3}\right]: \cos x+\sin x=1\right\}$
+(II) $\left\{x \in\left[-\frac{5 \pi}{18}, \frac{5 \pi}{18}\right]: \sqrt{3} \tan 3 x=1\right\}$
+(III) $\left\{x \in\left[-\frac{6 \pi}{5}, \frac{6 \pi}{5}\right]: 2 \cos (2 x)=\sqrt{3}\right\}$
+(IV) $\left\{x \in\left[-\frac{7 \pi}{4}, \frac{7 \pi}{4}\right]: \sin x-\cos x=1\right\}$
+
+List-II
+(P) has two elements
+(Q) has three elements
+(R) has four elements
+(S) has five elements
+(T) has six elements
+
+The correct option is:
+
+(A) (I) $\rightarrow$ (P); (II) $\rightarrow$ (S); (III) $\rightarrow$ (P); (IV) $\rightarrow$ (S)
+
+(B) (I) $\rightarrow$ (P); (II) $\rightarrow$ (P); (III) $\rightarrow$ (T); (IV) $\rightarrow$ (R)
+
+(C) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (P); (III) $\rightarrow$ (T); (IV) $\rightarrow$ (S)
+
+(D) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (S); (III) $\rightarrow$ (P); (IV) $\rightarrow$ (R)",S3,Combining knowledge of trigonometric equations and their solutions to determine the number of elements in each set.,Mathematics,Trigonometry,5,Class 11 Mathematics Chapter 3,groq-llama-3.1-8b-instant
+2022,Mathematics,"Two players, $P_{1}$ and $P_{2}$, play a game against each other. In every round of the game, each player rolls a fair die once, where the six faces of the die have six distinct numbers. Let $x$ and $y$ denote the readings on the die rolled by $P_{1}$ and $P_{2}$, respectively. If $x>y$, then $P_{1}$ scores 5 points and $P_{2}$ scores 0 point. If $x=y$, then each player scores 2 points. If $x<y$, then $P_{1}$ scores 0 point and $P_{2}$ scores 5 points. Let $X_{i}$ and $Y_{i}$ be the total scores of $P_{1}$ and $P_{2}$, respectively, after playing the $i^{\text {th }}$ round.
+
+List-I
+(I) Probability of $\left(X_2 \geq Y_2\right)$ is
+(II) Probability of $\left(X_2>Y_2\right)$ is
+(III) Probability of $\left(X_3=Y_3\right)$ is
+(IV) Probability of $\left(X_3>Y_3\right)$ is
+
+List-II
+(P) $\frac{3}{8}$
+(Q) $\frac{11}{16}$
+(R) $\frac{5}{16}$
+(S) $\frac{355}{864}$
+(T) $\frac{77}{432}$
+
+The correct option is:
+
+(A) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (R); (III) $\rightarrow$ (T); (IV) $\rightarrow$ (S)
+
+(B) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (R); (III) $\rightarrow$ (T); (IV) $\rightarrow$ (T)
+
+(C) (I) $\rightarrow$ (P); (II) $\rightarrow$ (R); (III) $\rightarrow$ (Q); (IV) $\rightarrow$ (S)
+
+(D) (I) $\rightarrow$ (P); (II) $\rightarrow$ (R); (III) $\rightarrow$ (Q); (IV) $\rightarrow$ (T)",S2,Applying probability concepts to a game scenario,Probability,Conditional Probability,4,Class 11 Maths Chapter 15 N,groq-llama-3.1-8b-instant
+2022,Mathematics,"Let $p, q, r$ be nonzero real numbers that are, respectively, the $10^{\text {th }}, 100^{\text {th }}$ and $1000^{\text {th }}$ terms of a harmonic progression. Consider the system of linear equations
+
+\[
+\begin{gathered}
+
+x+y+z=1 \\
+
+10 x+100 y+1000 z=0 \\
+
+q r x+p r y+p q z=0
+
+\end{gathered}
+\]
+
+List-I
+(I) If $\frac{q}{r}=10$, then the system of linear equations has
+(II) If $\frac{p}{r} \neq 100$, then the system of linear equations has
+(III) If $\frac{p}{q} \neq 10$, then the system of linear equations has
+(IV) If $\frac{p}{q}=10$, then the system of linear equations has
+
+List-II
+(P) $x=0, \quad y=\frac{10}{9}, z=-\frac{1}{9}$ as a solution
+(Q) $x=\frac{10}{9}, y=-\frac{1}{9}, z=0$ as a solution
+(III) If $\frac{p}{q} \neq 10$, then the system of linear
+(R) infinitely many solutions
+(IV) If $\frac{p}{q}=10$, then the system of linear
+(S) no solution
+(T) at least one solution
+
+The correct option is:
+
+(A) (I) $\rightarrow$ (T); (II) $\rightarrow$ (R); (III) $\rightarrow$ (S); (IV) $\rightarrow$ (T)
+
+(B) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (S); (III) $\rightarrow$ (S); (IV) $\rightarrow$ (R)
+
+(C) (I) $\rightarrow$ (Q); (II) $\rightarrow$ (R); (III) $\rightarrow$ (P); (IV) $\rightarrow$ (R)
+
+(D) (I) $\rightarrow$ (T); (II) $\rightarrow$ (S); (III) $\rightarrow$ (P); (IV) $\rightarrow$ (T)",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically linear equations and harmonic progression.",Mathematics,Linear Equations and Harmonic Progression,5,Class 11 Mathematics Chapter 3,groq-llama-3.1-8b-instant
+2022,Mathematics,"Consider the ellipse
+
+\[
+\frac{x^{2}}{4}+\frac{y^{2}}{3}=1
+\]
+
+Let $H(\alpha, 0), 0<\alpha<2$, be a point. A straight line drawn through $H$ parallel to the $y$-axis crosses the ellipse and its auxiliary circle at points $E$ and $F$ respectively, in the first quadrant. The tangent to the ellipse at the point $E$ intersects the positive $x$-axis at a point $G$. Suppose the straight line joining $F$ and the origin makes an angle $\phi$ with the positive $x$-axis.
+
+List-I
+(I) If $\phi=\frac{\pi}{4}$, then the area of the triangle $F G H$ is
+(II) If $\phi=\frac{\pi}{3}$, then the area of the triangle $F G H$ is
+(III) If $\phi=\frac{\pi}{6}$, then the area of the triangle $F G H$ is
+(IV) If $\phi=\frac{\pi}{12}$, then the area of the triangle $F G H$ is
+
+List-II
+(P) $\frac{(\sqrt{3}-1)^4}{8}$
+(Q) 1
+(R) $\frac{3}{4}$
+(S) $\frac{1}{2 \sqrt{3}}$
+(T) $\frac{3 \sqrt{3}}{2}$
+
+The correct option is:
+
+(A) (I) $\rightarrow$ (R); (II) $\rightarrow$ (S); (III) $\rightarrow$ (Q); (IV) $\rightarrow$ (P)
+
+(B) $\quad$ (I) $\rightarrow$ (R); (II) $\rightarrow$ (T); (III) $\rightarrow$ (S); (IV) $\rightarrow$ (P)
+
+(C) $\quad$ (I) $\rightarrow$ (Q); (II) $\rightarrow$ (T); (III) $\rightarrow$ (S); (IV) $\rightarrow$ (P)
+
+(D) $\quad$ (I) $\rightarrow$ (Q); (II) $\rightarrow$ (S); (III) $\rightarrow$ (Q); (IV) $\rightarrow$ (P)",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically ellipse and geometry.",Mathematics,Coordinate Geometry and Ellipse,5,Class 11 Mathematics Chapter 11,groq-llama-3.1-8b-instant
+2022,Physics,"List I describes thermodynamic processes in four different systems. List II gives the magnitudes (either exactly or as a close approximation) of possible changes in the internal energy of the system due to the process.
+List-I
+(I) $10^{-3} \mathrm{~kg}$ of water at $100^{\circ} \mathrm{C}$ is converted to steam at the same temperature, at a pressure of $10^5 \mathrm{~Pa}$. The volume of the system changes from $10^{-6} \mathrm{~m}^3$ to $10^{-3} \mathrm{~m}^3$ in the process. Latent heat of water $=2250 \mathrm{~kJ} / \mathrm{kg}$.
+(II) 0.2 moles of a rigid diatomic ideal gas with volume $V$ at temperature $500 \mathrm{~K}$ undergoes an isobaric expansion to volume $3 \mathrm{~V}$. Assume $R=8.0 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}$.
+(III) One mole of a monatomic ideal gas is compressed adiabatically from volume $V=\frac{1}{3} m^3$ and pressure $2 \mathrm{kPa}$ to volume $\frac{V}{8}$.
+(IV) Three moles of a diatomic ideal gas whose molecules can vibrate, is given $9 \mathrm{~kJ}$ of heat and undergoes isobaric expansion.
+
+List-II
+(P) $2 \mathrm{~kJ}$
+(Q) $7 \mathrm{~kJ}$
+(R) $4 \mathrm{~kJ}$
+(S) $5 \mathrm{~kJ}$
+(T) $3 \mathrm{~kJ}$
+
+Which one of the following options is correct?\
+(A) $\mathrm{I} \rightarrow \mathrm{T}$, II $\rightarrow$ R, III $\rightarrow \mathrm{S}$, IV $\rightarrow$ Q,
+
+(B) I $\rightarrow \mathrm{S}$, II $\rightarrow$ P, III $\rightarrow \mathrm{T}$, IV $\rightarrow$ P,
+
+(C) I $\rightarrow$ P, II $\rightarrow$ R, III $\rightarrow$ T, IV $\rightarrow$ Q.
+
+(D) I $\rightarrow$ Q, II $\rightarrow$ R, III $\rightarrow \mathrm{S}$, IV $\rightarrow \mathrm{T}$,",S3,Requires combining knowledge from thermodynamics and ideal gas equations simultaneously.,Thermodynamics,Ideal Gas and Thermodynamic Processes,5,Class 11 Physics Chapter 12,groq-llama-3.1-8b-instant
+2022,Chemistry,"LIST-I contains compounds and LIST-II contains reactions
+
+
+LIST-I
+(I) $\mathrm{H}_2 \mathrm{O}_2$
+(II) $\mathrm{Mg}(\mathrm{OH})_2$
+(III) $\mathrm{BaCl}_2$
+(IV) $\mathrm{CaCO}_3$
+
+LIST-II
+(P) $\mathrm{Mg}\left(\mathrm{HCO}_{3}\right)_{2}+\mathrm{Ca}(\mathrm{OH})_{2} \rightarrow$
+(Q) $\mathrm{BaO}_{2}+\mathrm{H}_{2} \mathrm{SO}_{4} \rightarrow$
+(R) $\mathrm{Ca}(\mathrm{OH})_{2}+\mathrm{MgCl}_{2} \rightarrow$
+(S) $\mathrm{BaO}_{2}+\mathrm{HCl} \rightarrow$
+(T) $\mathrm{Ca}\left(\mathrm{HCO}_{3}\right)_{2}+\mathrm{Ca}(\mathrm{OH})_{2} \rightarrow$
+
+Match each compound in LIST-I with its formation reaction(s) in LIST-II, and choose the correct option\
+(A) I $\rightarrow$ Q; II $\rightarrow$ P; III $\rightarrow \mathrm{S}$; IV $\rightarrow$ R
+
+(B) I $\rightarrow$ T; II $\rightarrow$ P; III $\rightarrow$ Q; IV $\rightarrow \mathrm{R}$
+
+(C) I $\rightarrow$ T; II $\rightarrow$ R; III $\rightarrow$ Q; IV $\rightarrow$ P
+
+(D) I $\rightarrow$ Q; II $\rightarrow$ R; III $\rightarrow \mathrm{S}$; IV $\rightarrow \mathrm{P}$",S3,Requires combining knowledge of chemical reactions and compound formation.,Chemical Reactions and Equilibrium,Chemical Reactions,4,Class 11 Chemistry Chapter 8,groq-llama-3.1-8b-instant
+2022,Chemistry,"LIST-I contains metal species and LIST-II contains their properties.
+
+LIST-I
+(I) $\left[\mathrm{Cr}(\mathrm{CN})_{6}\right]^{4-}$
+(II) $\left[\mathrm{RuCl}_{6}\right]^{2-}$
+(III) $\left[\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{2+}$
+(IV) $\left[\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{2+}$
+
+LIST-II
+(P) $t_{2 \mathrm{~g}}$ orbitals contain 4 electrons
+(Q) $\mu$ (spin-only $=4.9 \mathrm{BM}$
+(R) low spin complex ion
+(S) metal ion in $4+$ oxidation state
+(T) $d^{4}$ species
+
+[Given: Atomic number of $\mathrm{Cr}=24, \mathrm{Ru}=44, \mathrm{Fe}=26$ ]
+
+Match each metal species in LIST-I with their properties in LIST-II, and choose the correct option
+
+(A) I $\rightarrow$ R, T; II $\rightarrow$ P, S; III $\rightarrow$ Q, T; IV $\rightarrow$ P, Q
+
+(B) I $\rightarrow$ R, S; II $\rightarrow$ P, T; III $\rightarrow$ P, Q; IV $\rightarrow$ Q, T
+
+(C) I $\rightarrow \mathrm{P}, \mathrm{R} ; \mathrm{II} \rightarrow \mathrm{R}, \mathrm{S}$; III $\rightarrow \mathrm{R}, \mathrm{T}$; IV $\rightarrow \mathrm{P}, \mathrm{T}$
+
+(D) I $\rightarrow$ Q, T; II $\rightarrow \mathrm{S}, \mathrm{T}$; III $\rightarrow \mathrm{P}, \mathrm{T}$; IV $\rightarrow \mathrm{Q}, \mathrm{R}$",S3,Requires combining knowledge of crystal field theory and electronic configuration to determine the properties of the metal species.,Chemistry,Coordination Compounds,4,Class 12 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2022,Chemistry,"Match the compounds in LIST-I with the observations in LIST-II, and choose the correct option.
+
+LIST-I
+
+(I) Aniline
+(II) $o$-Cresol
+(III) Cysteine
+(IV) Caprolactam
+
+LIST-II
+
+(P) Sodium fusion extract of the compound on boiling with $\mathrm{FeSO}_{4}$, followed by acidification with conc. $\mathrm{H}_{2} \mathrm{SO}_{4}$, gives Prussian blue color.
+(Q) Sodium fusion extract of the compound on treatment with sodium nitroprusside gives blood red color.
+(R) Addition of the compound to a saturated solution of $\mathrm{NaHCO}_{3}$ results in effervescence.
+(S) The compound reacts with bromine water to give a white precipitate.
+(T) Treating the compound with neutral $\mathrm{FeCl}_{3}$ solution produces violet color.
+
+(A) $\mathrm{I} \rightarrow \mathrm{P}, \mathrm{Q}$; II $\rightarrow \mathrm{S}$; III $\rightarrow \mathrm{Q}$, R; IV $\rightarrow \mathrm{P}$
+
+(B) $\mathrm{I} \rightarrow \mathrm{P}$; II $\rightarrow \mathrm{R}, \mathrm{S}$; III $\rightarrow \mathrm{R}$; IV $\rightarrow \mathrm{Q}, \mathrm{S}$
+
+(C) $\mathrm{I} \rightarrow \mathrm{Q}, \mathrm{S}$; II $\rightarrow \mathrm{P}, \mathrm{T}$; III $\rightarrow \mathrm{P}$; IV $\rightarrow \mathrm{S}$
+
+(D) $\mathrm{I} \rightarrow \mathrm{P}, \mathrm{S}$; II $\rightarrow \mathrm{T}$; III $\rightarrow \mathrm{Q}, \mathrm{R}$; IV $\rightarrow \mathrm{P}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, such as organic chemistry and inorganic chemistry.",Organic Chemistry,Functional Groups and Chemical Tests,4,Class 11 Chemistry Chapter 12,groq-llama-3.1-8b-instant
+2022,Mathematics,"Consider 4 boxes, where each box contains 3 red balls and 2 blue balls. Assume that all 20 balls are distinct. In how many different ways can 10 balls be chosen from these 4 boxes so that from each box at least one red ball and one blue ball are chosen?
+
+(A) 21816
+
+(B) 85536
+
+(C) 12096
+
+(D) 156816",S3,"Combining knowledge from distinct chapters/topics simultaneously, such as combinations and constraints.",Combinations and Permutations,Combinatorial Problems,5,Class 11 Mathematics Combinations and Permutations,groq-llama-3.1-8b-instant
+2022,Mathematics,"If $M=\left(\begin{array}{rr}\frac{5}{2} & \frac{3}{2} \\ -\frac{3}{2} & -\frac{1}{2}\end{array}\right)$, then which of the following matrices is equal to $M^{2022}$ ?
+
+(A) $\left(\begin{array}{rr}3034 & 3033 \\ -3033 & -3032\end{array}\right)$
+
+(B) $\left(\begin{array}{ll}3034 & -3033 \\ 3033 & -3032\end{array}\right)$
+
+(C) $\left(\begin{array}{rr}3033 & 3032 \\ -3032 & -3031\end{array}\right)$
+
+(D) $\left(\begin{array}{rr}3032 & 3031 \\ -3031 & -3030\end{array}\right)$",S3,Requires understanding of matrix exponentiation and properties of matrix multiplication.,Matrices,Properties of Matrices,5,Class 11 Mathematics Chapter 3,groq-llama-3.1-8b-instant
+2022,Mathematics,"Suppose that
+
+Box-I contains 8 red, 3 blue and 5 green balls,
+
+Box-II contains 24 red, 9 blue and 15 green balls,
+
+Box-III contains 1 blue, 12 green and 3 yellow balls,
+
+Box-IV contains 10 green, 16 orange and 6 white balls.
+
+A ball is chosen randomly from Box-I; call this ball $b$. If $b$ is red then a ball is chosen randomly from Box-II, if $b$ is blue then a ball is chosen randomly from Box-III, and if $b$ is green then a ball is chosen randomly from Box-IV. The conditional probability of the event 'one of the chosen balls is white' given that the event 'at least one of the chosen balls is green' has happened, is equal to
+
+(A) $\frac{15}{256}$
+
+(B) $\frac{3}{16}$
+
+(C) $\frac{5}{52}$
+
+(D) $\frac{1}{8}$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, such as conditional probability and probability of independent events.",Probability,Conditional Probability,5,Class 12 Maths Chapter 13,groq-llama-3.1-8b-instant
+2022,Mathematics,"For positive integer $n$, define
+
+\[
+f(n)=n+\frac{16+5 n-3 n^{2}}{4 n+3 n^{2}}+\frac{32+n-3 n^{2}}{8 n+3 n^{2}}+\frac{48-3 n-3 n^{2}}{12 n+3 n^{2}}+\cdots+\frac{25 n-7 n^{2}}{7 n^{2}}
+\]
+
+Then, the value of $\lim _{n \rightarrow \infty} f(n)$ is equal to
+
+(A) $3+\frac{4}{3} \log _{e} 7$
+
+(B) $4-\frac{3}{4} \log _{e}\left(\frac{7}{3}\right)$
+
+(C) $4-\frac{4}{3} \log _{e}\left(\frac{7}{3}\right)$
+
+(D) $3+\frac{3}{4} \log _{e} 7$",S3,"Combines knowledge from sequences and limits, and logarithmic properties.",Mathematics,Limits and Sequences,5,Class 12 Mathematics Chapter 13,groq-llama-3.1-8b-instant
+2022,Physics,"When light of a given wavelength is incident on a metallic surface, the minimum potential needed to stop the emitted photoelectrons is $6.0 \mathrm{~V}$. This potential drops to $0.6 \mathrm{~V}$ if another source with wavelength four times that of the first one and intensity half of the first one is used. What are the wavelength of the first source and the work function of the metal, respectively? [Take $\frac{h c}{e}=1.24 \times$ $10^{-6} \mathrm{~J} \mathrm{mC}^{-1}$.]
+
+(A) $1.72 \times 10^{-7} \mathrm{~m}, 1.20 \mathrm{eV}$
+
+(B) $1.72 \times 10^{-7} \mathrm{~m}, 5.60 \mathrm{eV}$
+
+(C) $3.78 \times 10^{-7} \mathrm{~m}, 5.60 \mathrm{eV}$
+
+(D) $3.78 \times 10^{-7} \mathrm{~m}, 1.20 \mathrm{eV}$",S3,Requires combining knowledge from two or more distinct chapters/topics simultaneously.,Class 11 Physics Chapter 13,Photoelectric Effect,5,"Chapter 13, Page 316",groq-llama-3.1-8b-instant
+2022,Physics,"Area of the cross-section of a wire is measured using a screw gauge. The pitch of the main scale is $0.5 \mathrm{~mm}$. The circular scale has 100 divisions and for one full rotation of the circular scale, the main scale shifts by two divisions. The measured readings are listed below.
+
+\begin{center}
+
+\begin{tabular}{|l|l|l|}
+
+\hline
+
+Measurement condition & Main scale reading & Circular scale reading \\
+
+\hline
+
+$\begin{array}{l}\text { Two arms of gauge touching } \\ \text { each other without wire }\end{array}$ & 0 division & 4 divisions \\
+
+\hline
+
+Attempt-1: With wire & 4 divisions & 20 divisions \\
+
+\hline
+
+Attempt-2: With wire & 4 divisions & 16 divisions \\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+What are the diameter and cross-sectional area of the wire measured using the screw gauge?
+
+(A) $2.22 \pm 0.02 \mathrm{~mm}, \pi(1.23 \pm 0.02) \mathrm{mm}^{2}$
+
+(B) $2.22 \pm 0.01 \mathrm{~mm}, \pi(1.23 \pm 0.01) \mathrm{mm}^{2}$
+
+(C) $2.14 \pm 0.02 \mathrm{~mm}, \pi(1.14 \pm 0.02) \mathrm{mm}^{2}$
+
+(D) $2.14 \pm 0.01 \mathrm{~mm}, \pi(1.14 \pm 0.01) \mathrm{mm}^{2}$",S3,Combining knowledge of screw gauge and circular scale to find diameter and cross-sectional area of the wire.,Physics,Measurement,4,Class 11 Physics Chapter 2,groq-llama-3.1-8b-instant
+2022,Chemistry,"Atom $\mathrm{X}$ occupies the fcc lattice sites as well as alternate tetrahedral voids of the same lattice. The packing efficiency (in \%) of the resultant solid is closest to
+
+(A) 25
+
+(B) 35
+
+(C) 55
+
+(D) 75",S3,Combining knowledge of fcc lattice and tetrahedral voids packing efficiency,Class 11 Chemistry,Solid State,4,Chapter 1,groq-llama-3.1-8b-instant
+2022,Chemistry,"The reaction of $\mathrm{HClO}_{3}$ with $\mathrm{HCl}$ gives a paramagnetic gas, which upon reaction with $\mathrm{O}_{3}$ produces
+
+(A) $\mathrm{Cl}_{2} \mathrm{O}$
+
+(B) $\mathrm{ClO}_{2}$
+
+(C) $\mathrm{Cl}_{2} \mathrm{O}_{6}$
+
+(D) $\mathrm{Cl}_{2} \mathrm{O}_{7}$",S2,Application of known principles of redox reactions and ozone reactivity,Class 11 Chemistry Chapter 8,Redox Reactions,4,Class 11 Chemistry Chapter 8 Redox Reactions,groq-llama-3.1-8b-instant
+2022,Chemistry,"The reaction of $\mathrm{Pb}\left(\mathrm{NO}_{3}\right)_{2}$ and $\mathrm{NaCl}$ in water produces a precipitate that dissolves upon the addition of $\mathrm{HCl}$ of appropriate concentration. The dissolution of the precipitate is due to the formation of
+
+(A) $\mathrm{PbCl}_{2}$
+
+(B) $\mathrm{PbCl}_{4}$
+
+(C) $\left[\mathrm{PbCl}_{4}\right]^{2-}$
+
+(D) $\left[\mathrm{PbCl}_{6}\right]^{2-}$",S3,Requires knowledge of solubility rules and complex ion formation,Class 11 Chemistry Chapter 9,Coordination Compounds,4,Class 11 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $f:(0,1) \rightarrow \mathbb{R}$ be the function defined as $f(x)=\sqrt{n}$ if $x \in\left[\frac{1}{n+1}, \frac{1}{n}\right)$ where $n \in \mathbb{N}$. Let $g:(0,1) \rightarrow \mathbb{R}$ be a function such that $\int_{x^{2}}^{x} \sqrt{\frac{1-t}{t}} d t<g(x)<2 \sqrt{x}$ for all $x \in(0,1)$. Then $\lim _{x \rightarrow 0} f(x) g(x)$
+
+
+
+(A) does NOT exist
+
+
+
+(B) is equal to 1
+
+
+
+(C) is equal to 2
+
+
+
+(D) is equal to 3",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically integration and limit properties.",Calculus,Limits and Integration,5,Class 11 Mathematics Chapter 13,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $Q$ be the cube with the set of vertices $\left\{\left(x_{1}, x_{2}, x_{3}\right) \in \mathbb{R}^{3}: x_{1}, x_{2}, x_{3} \in\{0,1\}\right\}$. Let $F$ be the set of all twelve lines containing the diagonals of the six faces of the cube $Q$. Let $S$ be the set of all four lines containing the main diagonals of the cube $Q$; for instance, the line passing through the vertices $(0,0,0)$ and $(1,1,1)$ is in $S$. For lines $\ell_{1}$ and $\ell_{2}$, let $d\left(\ell_{1}, \ell_{2}\right)$ denote the shortest distance between them. Then the maximum value of $d\left(\ell_{1}, \ell_{2}\right)$, as $\ell_{1}$ varies over $F$ and $\ell_{2}$ varies over $S$, is
+
+
+
+(A) $\frac{1}{\sqrt{6}}$
+
+
+
+(B) $\frac{1}{\sqrt{8}}$
+
+
+
+(C) $\frac{1}{\sqrt{3}}$
+
+
+
+(D) $\frac{1}{\sqrt{12}}$",S3,Requires combining knowledge of geometry and distance calculation.,Mathematics,Geometry and 3D Coordinate System,5,Class 11 Mathematics Chapter 11,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $X=\left\{(x, y) \in \mathbb{Z} \times \mathbb{Z}: \frac{x^{2}}{8}+\frac{y^{2}}{20}<1\right.$ and $\left.y^{2}<5 x\right\}$. Three distinct points $P, Q$ and $R$ are randomly chosen from $X$. Then the probability that $P, Q$ and $R$ form a triangle whose area is a positive integer, is
+
+(A) $\frac{71}{220}$
+
+
+
+(B) $\frac{73}{220}$
+
+
+
+(C) $\frac{79}{220}$
+
+
+
+(D) $\frac{83}{220}$",S3,"Requires combining knowledge from two or more distinct chapters/topics simultaneously, specifically coordinate geometry and properties of triangles.",Coordinate Geometry,Properties of Triangles,5,Class 11 Mathematics Coordinate Geometry Chapter 7,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $P$ be a point on the parabola $y^{2}=4 a x$, where $a>0$. The normal to the parabola at $P$ meets the $x$-axis at a point $Q$. The area of the triangle $P F Q$, where $F$ is the focus of the parabola, is 120 . If the slope $m$ of the normal and $a$ are both positive integers, then the pair $(a, m)$ is
+
+(A) $(2,3)$
+
+
+
+(B) $(1,3)$
+
+
+
+(C) $(2,4)$
+
+
+
+(D) $(3,4)$",S3,Combining knowledge of parabola equations and triangle area calculation.,Mathematics,Parabola and Coordinate Geometry,5,Class 11 Mathematics Chapter 11,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $\alpha, \beta$ and $\gamma$ be real numbers. Consider the following system of linear equations 
+
+
+
+$x+2 y+z=7$
+
+
+
+$x+\alpha z=11$
+
+
+
+$2 x-3 y+\beta z=\gamma$
+
+
+
+Match each entry in List-I to the correct entries in List-II.
+
+
+
+\textbf{List-I}
+
+
+
+(P) If $\beta=\frac{1}{2}(7 \alpha-3)$ and $\gamma=28$, then the system has
+
+
+
+(Q) If $\beta=\frac{1}{2}(7 \alpha-3)$ and $\gamma \neq 28$, then the system has
+
+
+
+(R) If $\beta \neq \frac{1}{2}(7 \alpha-3)$ where $\alpha=1$ and $\gamma \neq 28$, then the system has
+
+
+
+(S) If $\beta \neq \frac{1}{2}(7 \alpha-3)$ where $\alpha=1$ and $\gamma = 28$, then the system has
+
+
+
+
+
+\textbf{List-II}
+
+
+
+(1) a unique solution
+
+
+
+(2) no solution
+
+
+
+(3) infinitely many solutions
+
+
+
+(4) $x=11, y=-2$ and $z=0$ as a solution
+
+
+
+(5) $x=-15, y=4$ and $z=0$ as a solution
+
+
+
+The correct option is:
+
+
+
+(A) $(P) \rightarrow(3) \quad(Q) \rightarrow(2) \quad(R) \rightarrow(1) \quad(S) \rightarrow(4)$
+
+
+
+(B) $(P) \rightarrow(3) \quad(Q) \rightarrow(2) \quad(R) \rightarrow(5) \quad(S) \rightarrow(4)$
+
+
+
+(C) $(P) \rightarrow(2) \quad(Q) \rightarrow(1) \quad(R) \rightarrow(4) \quad(S) \rightarrow(5)$
+
+
+
+(D) $(P) \rightarrow(2) \quad(Q) \rightarrow(1) \quad(R) \rightarrow(1) \quad$ (S) $\rightarrow$ (3)",S3,"Requires combining knowledge from multiple chapters/topics simultaneously, including linear equations and system of equations.",Linear Algebra,System of Linear Equations,5,Class 12 Mathematics Chapter 4,groq-llama-3.1-8b-instant
+2023,Mathematics,"Consider the given data with frequency distribution
+
+
+
+$$
+
+\begin{array}{ccccccc}
+
+x_{i} & 3 & 8 & 11 & 10 & 5 & 4 \\
+
+f_{i} & 5 & 2 & 3 & 2 & 4 & 4
+
+\end{array}
+
+$$
+
+
+
+Match each entry in List-I to the correct entries in List-II.
+
+
+
+\textbf{List-I}
+
+
+
+(P) The mean of the above data is
+
+
+
+(Q) The median of the above data is
+
+
+
+(R) The mean deviation about the mean of the above data is
+
+
+
+(S) The mean deviation about the median of the above data is
+
+
+
+\textbf{List-II}
+
+
+
+(1) 2.5
+
+
+
+(2) 5
+
+
+
+(3) 6
+
+
+
+(4) 2.7
+
+
+
+(5) 2.4
+
+
+
+The correct option is:
+
+
+
+(A) $(P) \rightarrow(3) \quad$ (Q) $\rightarrow$ (2) $\quad$ (R) $\rightarrow$ (4) $\quad$ (S) $\rightarrow$ (5)
+
+
+
+(B) $(P) \rightarrow(3) \quad(Q) \rightarrow(2) \quad(R) \rightarrow(1) \quad(S) \rightarrow(5)$
+
+
+
+(C) $(P) \rightarrow(2) \quad(Q) \rightarrow(3) \quad(R) \rightarrow(4) \quad(S) \rightarrow(1)$
+
+
+
+(D) $(P) \rightarrow$ (3) $\quad$ (Q) $\rightarrow$ (3) $\quad$ (R) $\rightarrow$ (5) $\quad$ (S) $\rightarrow$ (5)",S3,"Requires combining knowledge from two or more distinct chapters/topics simultaneously to calculate mean, median, and mean deviation.",Statistics,Measures of Central Tendency and Dispersion,4,Class 11 Mathematics Statistics Chapter 15,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $\ell_{1}$ and $\ell_{2}$ be the lines $\vec{r}_{1}=\lambda(\hat{i}+\hat{j}+\hat{k})$ and $\vec{r}_{2}=(\hat{j}-\hat{k})+\mu(\hat{i}+\hat{k})$, respectively. Let $X$ be the set of all the planes $H$ that contain the line $\ell_{1}$. For a plane $H$, let $d(H)$ denote the smallest possible distance between the points of $\ell_{2}$ and $H$. Let $H_{0}$ be a plane in $X$ for which $d\left(H_{0}\right)$ is the maximum value of $d(H)$ as $H$ varies over all planes in $X$.
+
+
+
+Match each entry in List-I to the correct entries in List-II.
+
+
+
+\textbf{List-I}
+
+
+
+(P) The value of $d\left(H_{0}\right)$ is
+
+
+
+(Q) The distance of the point $(0,1,2)$ from $H_{0}$ is
+
+
+
+(R) The distance of origin from $H_{0}$ is
+
+
+
+(S) The distance of origin from the point of intersection of planes $y=z, x=1$ and $H_{0}$ is
+
+
+
+\textbf{List-II}
+
+
+
+(1) $\sqrt{3}$
+
+
+
+(2) $\frac{1}{\sqrt{3}}$
+
+
+
+(3) 0
+
+
+
+(4) $\sqrt{2}$
+
+
+
+(5) $\frac{1}{\sqrt{2}}$
+
+
+
+The correct option is:
+
+
+
+(A) $(P) \rightarrow(2) \quad(Q) \rightarrow(4) \quad(R) \rightarrow(5) \quad(S) \rightarrow(1)$
+
+
+
+(B) $(P) \rightarrow(5) \quad(Q) \rightarrow(4) \quad(R) \rightarrow(3) \quad(S) \rightarrow$ (1)
+
+
+
+(C) $(P) \rightarrow(2) \quad(Q) \rightarrow(1) \quad(R) \rightarrow(3) \quad(S) \rightarrow$ (2)
+
+
+
+(D) $(P) \rightarrow(5) \quad(Q) \rightarrow(1) \quad(R) \rightarrow(4) \quad(S) \rightarrow(2)$",S3,Requires combining knowledge from two or more distinct chapters/topics simultaneously.,Mathematics,Three Dimensional Geometry,5,Class 12 Mathematics Three Dimensional Geometry,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $z$ be a complex number satisfying $|z|^{3}+2 z^{2}+4 \bar{z}-8=0$, where $\bar{z}$ denotes the complex conjugate of $z$. Let the imaginary part of $z$ be nonzero.
+
+
+
+Match each entry in List-I to the correct entries in List-II.
+
+
+
+\textbf{List-I}
+
+
+
+(P) $|z|^{2}$ is equal to
+
+
+
+(Q) $|Z-\bar{Z}|^{2}$ is equal to
+
+
+
+(R) $|Z|^{2}+|Z+\bar{Z}|^{2}$ is equal to
+
+
+
+(S) $|z+1|^{2}$ is equal to
+
+
+
+\textbf{List-II}
+
+
+
+(1) 12
+
+
+
+(2) 4
+
+
+
+(3) 8
+
+
+
+(4) 10
+
+
+
+(5) 7
+
+
+
+The correct option is:
+
+
+
+(A)$(P) \rightarrow(1) \quad(Q) \rightarrow(3) \quad(R) \rightarrow(5) \quad(S) \rightarrow$ (4)
+
+
+
+(B) $(P) \rightarrow(2) \quad(Q) \rightarrow(1) \quad(R) \rightarrow(3) \quad(S) \rightarrow(5)$
+
+
+
+(C) $(P) \rightarrow(2) \quad(Q) \rightarrow(4) \quad(R) \rightarrow(5) \quad(S) \rightarrow(1)$
+
+
+
+(D) $(P) \rightarrow(2) \quad(Q) \rightarrow(3) \quad(R) \rightarrow(5) \quad(S) \rightarrow(4)$",S3,"Requires combining knowledge from distinct chapters/topics simultaneously, specifically complex numbers and modulus of complex numbers.",Complex Numbers,Properties of Modulus,4,Class 11 Mathematics Chapter 5,groq-llama-3.1-8b-instant
+2023,Physics,"A bar of mass $M=1.00 \mathrm{~kg}$ and length $L=0.20 \mathrm{~m}$ is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass $m=0.10 \mathrm{~kg}$ is moving on the same horizontal surface with $5.00 \mathrm{~m} \mathrm{~s}^{-1}$ speed on a path perpendicular to the bar. It hits the bar at a distance $L / 2$ from the pivoted end and returns back on the same path with speed $\mathrm{v}$. After this elastic collision, the bar rotates with an angular velocity $\omega$. Which of the following statement is correct?
+
+
+
+(A) $\omega=6.98 \mathrm{rad} \mathrm{s}^{-1}$ and $\mathrm{v}=4.30 \mathrm{~m} \mathrm{~s}^{-1}$
+
+
+
+(B) $\omega=3.75 \mathrm{rad} \mathrm{s}^{-1}$ and $\mathrm{v}=4.30 \mathrm{~m} \mathrm{~s}^{-1}$
+
+
+
+(C) $\omega=3.75 \mathrm{rad} \mathrm{s}^{-1}$ and $\mathrm{v}=10.0 \mathrm{~m} \mathrm{~s}^{-1}$
+
+
+
+(D) $\omega=6.80 \mathrm{rad} \mathrm{s}^{-1}$ and $\mathrm{v}=4.10 \mathrm{~m} \mathrm{~s}^{-1}$",S5,Requires exhaustive verification of multiple claims to identify the correct statement,Class 11 Physics Chapter 6,Conservation of Linear Momentum and Collisions,5,Page 155,groq-llama-3.1-8b-instant
+2023,Physics,"One mole of an ideal gas expands adiabatically from an initial state $\left(T_{\mathrm{A}}, V_{0}\right)$ to final state $\left(T_{\mathrm{f}}, 5 V_{0}\right)$. Another mole of the same gas expands isothermally from a different initial state $\left(T_{\mathrm{B}}, V_{0}\right)$ to the same final state $\left(T_{\mathrm{f}}, 5 V_{0}\right)$. The ratio of the specific heats at constant pressure and constant volume of this ideal gas is $\gamma$. What is the ratio $T_{\mathrm{A}} / T_{\mathrm{B}}$ ?
+
+
+
+(A) $5^{\gamma-1}$
+
+
+
+(B) $5^{1-\gamma}$
+
+
+
+(C) $5^{\gamma}$
+
+
+
+(D) $5^{1+\gamma}$",S3,Requires combining knowledge from thermodynamics chapters simultaneously.,Thermodynamics,Adiabatic and Isothermal Processes,4,Class 11 Physics Chapter 12,groq-llama-3.1-8b-instant
+2023,Physics,"Two satellites $\mathrm{P}$ and $\mathrm{Q}$ are moving in different circular orbits around the Earth (radius $R$ ). The heights of $\mathrm{P}$ and $\mathrm{Q}$ from the Earth surface are $h_{\mathrm{P}}$ and $h_{\mathrm{Q}}$, respectively, where $h_{\mathrm{P}}=R / 3$. The accelerations of $\mathrm{P}$ and $\mathrm{Q}$ due to Earth's gravity are $g_{\mathrm{P}}$ and $g_{\mathrm{Q}}$, respectively. If $g_{\mathrm{P}} / g_{\mathrm{Q}}=36 / 25$, what is the value of $h_{\mathrm{Q}}$ ?
+
+
+
+(A) $3 R / 5$
+
+
+
+(B) $R / 6$
+
+
+
+(C) $6 R / 5$
+
+
+
+(D) $5 R / 6$",S3,Requires combining knowledge of gravitational acceleration and circular motion.,Class 11 Physics Gravitation,Gravitational Acceleration and Orbital Motion,4,Class 11 Physics Chapter 8 N,groq-llama-3.1-8b-instant
+2023,Physics,"List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option.
+
+
+
+\textbf{List-I}
+
+
+
+(P) ${ }_{92}^{238} U \rightarrow{ }_{91}^{234} \mathrm{~Pa}$
+
+
+
+(Q) ${ }_{82}^{214} \mathrm{~Pb} \rightarrow{ }_{82}^{210} \mathrm{~Pb}$
+
+
+
+(R) ${ }_{81}^{210} \mathrm{Tl} \rightarrow{ }_{82}^{206} \mathrm{~Pb}$
+
+
+
+(S) ${ }_{91}^{228} \mathrm{~Pa} \rightarrow{ }_{88}^{224} \mathrm{Ra}$
+
+
+
+\textbf{List-II}
+
+
+
+(1) one $\alpha$ particle and one $\beta^{+}$particle
+
+
+
+(2) three $\beta^{-}$particles and one $\alpha$ particle
+
+
+
+(3) two $\beta^{-}$particles and one $\alpha$ particle
+
+
+
+(4) one $\alpha$ particle and one $\beta^{-}$particle
+
+
+
+(5) one $\alpha$ particle and two $\beta^{+}$particles
+
+
+
+
+
+
+
+
+
+(A) $P \rightarrow 4, Q \rightarrow 3, R \rightarrow 2, S \rightarrow 1$
+
+
+
+(B) $P \rightarrow 4, Q \rightarrow 1, R \rightarrow 2, S \rightarrow 5$
+
+
+
+(C) $P \rightarrow 5, Q \rightarrow 3, R \rightarrow 1, S \rightarrow 4$
+
+
+
+(D) $P \rightarrow 5, Q \rightarrow 1, R \rightarrow 3, S \rightarrow 2$",S3,Requires combining knowledge of radioactive decay processes and particle emission.,Nuclear Physics,Radioactive Decay,4,Class 12 Physics Chapter 13,groq-llama-3.1-8b-instant
+2023,Physics,"Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.
+
+
+
+[Given: Wien's constant as $2.9 \times 10^{-3} \mathrm{~m}-\mathrm{K}$ and $\frac{h c}{e}=1.24 \times 10^{-6} \mathrm{~V}-\mathrm{m}$ ]
+
+
+
+\textbf{List-I}
+
+
+
+(P) $2000 \mathrm{~K}$
+
+
+
+(Q) $3000 \mathrm{~K}$
+
+
+
+(R) $5000 \mathrm{~K}$
+
+
+
+(S) $10000 \mathrm{~K}$
+
+
+
+\textbf{List-II}
+
+
+
+(1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function $4 \mathrm{eV}$.
+
+
+
+(2) The radiation at peak wavelength is visible to human eye.
+
+
+
+(3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction.
+
+
+
+(4) The power emitted per unit area is $1 / 16$ of that emitted by a blackbody at temperature $6000 \mathrm{~K}$.
+
+
+
+(5) The radiation at peak emission wavelength can be used to image human bones.
+
+
+
+(A) $P \rightarrow 3, Q \rightarrow 5, R \rightarrow 2, S \rightarrow 3$
+
+
+
+(B) $P \rightarrow 3, Q \rightarrow 2, R \rightarrow 4, S \rightarrow 1$
+
+
+
+(C) $P \rightarrow 3, Q \rightarrow 4, R \rightarrow 2, S \rightarrow 1$
+
+
+
+(D) $P \rightarrow 1, Q \rightarrow 2, R \rightarrow 5, S \rightarrow 3$",S3,Requires combining knowledge of Wien's displacement law and properties of blackbody radiation.,Class 11 Physics Chapter 2,Properties of Blackbody Radiation,4,Class 11 Physics Chapter 2 Page 46,groq-llama-3.1-8b-instant
+2023,Physics,"A series LCR circuit is connected to a $45 \sin (\omega t)$ Volt source. The resonant angular frequency of the circuit is $10^{5} \mathrm{rad} \mathrm{s}^{-1}$ and current amplitude at resonance is $I_{0}$. When the angular frequency of the source is $\omega=8 \times 10^{4} \mathrm{rad} \mathrm{s}^{-1}$, the current amplitude in the circuit is $0.05 I_{0}$. If $L=50 \mathrm{mH}$, match each entry in List-I with an appropriate value from List-II and choose the correct option.
+
+
+
+\textbf{List-I}
+
+
+
+(P) $I_{0}$ in $\mathrm{mA}$
+
+
+
+(Q) The quality factor of the circuit
+
+
+
+(R) The bandwidth of the circuit in $\mathrm{rad} \mathrm{s}^{-1}$
+
+
+
+(S) The peak power dissipated at resonance in Watt
+
+
+
+\textbf{List-II}
+
+
+
+(1) 44.4
+
+
+
+(2) 18
+
+
+
+(3) 400
+
+
+
+(4) 2250
+
+
+
+(5) 500
+
+
+
+(A) $P \rightarrow 2, Q \rightarrow 3, R \rightarrow 5, S \rightarrow 1$
+
+
+
+(B) $P \rightarrow 3, Q \rightarrow 1, R \rightarrow 4, S \rightarrow 2$
+
+
+
+(C) $P \rightarrow 4, Q \rightarrow 5, R \rightarrow 3, S \rightarrow 1$
+
+
+
+(D) $P \rightarrow 4, Q \rightarrow 2, R \rightarrow 1, S \rightarrow 5$",S3,"Requires combining knowledge from resonance, quality factor, and power dissipation in LCR circuits.",Class 11/12 Physics Alternating Current,Resonance in LCR circuits,5,Class 11 Physics Chapter 3,groq-llama-3.1-8b-instant
+2023,Chemistry,"Plotting $1 / \Lambda_{\mathrm{m}}$ against $\mathrm{c} \Lambda_{\mathrm{m}}$ for aqueous solutions of a monobasic weak acid (HX) resulted in a straight line with y-axis intercept of $\mathrm{P}$ and slope of $\mathrm{S}$. The ratio $\mathrm{P} / \mathrm{S}$ is
+
+
+
+$\left[\Lambda_{\mathrm{m}}=\right.$ molar conductivity
+
+
+
+$\Lambda_{\mathrm{m}}^{\mathrm{o}}=$ limiting molar conductivity
+
+
+
+$\mathrm{c}=$ molar concentration
+
+
+
+$\mathrm{K}_{\mathrm{a}}=$ dissociation constant of $\mathrm{HX}$ ]
+
+
+
+(A) $\mathrm{K}_{\mathrm{a}} \Lambda_{\mathrm{m}}^{\mathrm{o}}$
+
+
+
+(B) $\mathrm{K}_{\mathrm{a}} \Lambda_{\mathrm{m}}^{\mathrm{o}} / 2$
+
+
+
+(C) $2 \mathrm{~K}_{\mathrm{a}} \Lambda_{\mathrm{m}}^{\mathrm{o}}$
+
+
+
+(D) $1 /\left(\mathrm{K}_{\mathrm{a}} \Lambda_{\mathrm{m}}^{\mathrm{o}}\right)$",S3,Combining knowledge of Debye-Huckel limiting law and Ostwald dilution law to solve the problem.,Chemical Kinetics,Debye-Huckel limiting law and Ostwald dilution law,4,Class 12 Chemistry Chapter 6,groq-llama-3.1-8b-instant
+2023,Chemistry,"On decreasing the $p \mathrm{H}$ from 7 to 2, the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from $10^{-4} \mathrm{~mol} \mathrm{~L}^{-1}$ to $10^{-3} \mathrm{~mol} \mathrm{~L}^{-1}$. The $p\mathrm{~K}_{\mathrm{a}}$ of $\mathrm{HX}$ is
+
+
+
+(A) 3
+
+
+
+(B) 4
+
+
+
+(C) 5
+
+
+
+(D) 2",S3,Combining knowledge of solubility product constant and acid dissociation constant.,Chemical Equilibrium,Solubility Product Constant,4,Class 11 Chemistry Chapter 14,groq-llama-3.1-8b-instant
+2023,Chemistry,"Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.
+
+
+
+\textbf{List-I}
+
+
+
+(P) $\mathrm{P}_{2} \mathrm{O}_{3}+3 \mathrm{H}_{2} \mathrm{O} \rightarrow$
+
+
+
+(Q) $\mathrm{P}_{4}+3 \mathrm{NaOH}+3 \mathrm{H}_{2} \mathrm{O} \rightarrow$
+
+
+
+(R) $\mathrm{PCl}_{5}+\mathrm{CH}_{3} \mathrm{COOH} \rightarrow$
+
+
+
+(S) $\mathrm{H}_{3} \mathrm{PO}_{2}+2 \mathrm{H}_{2} \mathrm{O}+4 \mathrm{AgNO}_{3} \rightarrow$
+
+
+
+\textbf{List-II}
+
+
+
+(1) $\mathrm{P}(\mathrm{O})\left(\mathrm{OCH}_{3}\right) \mathrm{Cl}_{2}$
+
+
+
+(2) $\mathrm{H}_{3} \mathrm{PO}_{3}$
+
+
+
+(3) $\mathrm{PH}_{3}$
+
+
+
+(4) $\mathrm{POCl}_{3}$
+
+
+
+(5) $\mathrm{H}_{3} \mathrm{PO}_{4}$
+
+
+
+(A) $\mathrm{P} \rightarrow 2$; $\mathrm{Q} \rightarrow 3$; $\mathrm{R} \rightarrow 1$; $\mathrm{S} \rightarrow 5$
+
+
+
+(B) $\mathrm{P} \rightarrow 3$; Q $\rightarrow 5$; R $\rightarrow 4$; $\mathrm{S} \rightarrow 2$
+
+
+
+(C) $\mathrm{P} \rightarrow 5 ; \mathrm{Q} \rightarrow 2 ; \mathrm{R} \rightarrow 1$; S $\rightarrow 3$
+
+
+
+(D) P $\rightarrow 2$; Q $\rightarrow 3$; R $\rightarrow 4$; $\mathrm{S} \rightarrow 5$",S3,Requires combining knowledge from multiple chapters/topics simultaneously to match reactions with their products.,Chemistry,Phosphorus Compounds,4,Class 11 Chemistry Chapter 12,groq-llama-3.1-8b-instant
+2023,Chemistry,"Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option.
+
+
+
+[Atomic Number: $\mathrm{Fe}=26, \mathrm{Mn}=25$, $\mathrm{Co}=27$ ]
+
+
+
+\textbf{List-I}
+
+
+
+(P) $t_{2 g}^{6} e_{g}^{0}$
+
+
+
+(Q) $t_{2 g}^{3} e_{g}^{2}$
+
+
+
+(R) $\mathrm{e}^{2} \mathrm{t}_{2}^{3}$
+
+
+
+(S) $t_{2 g}^{4} e_{g}^{2}$
+
+
+
+\textbf{List-II}
+
+
+
+(1) $\left[\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{2+}$
+
+
+
+(2) $\left[\mathrm{Mn}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{2+}$
+
+
+
+(3) $\left[\mathrm{Co}\left(\mathrm{NH}_{3}\right)_{6}\right]^{3+}$
+
+
+
+(4) $\left[\mathrm{FeCl}_{4}\right]^{-}$
+
+
+
+(5) $\left[\mathrm{CoCl}_{4}\right]^{2-}$
+
+
+
+
+
+(A) $\mathrm{P} \rightarrow 1$; Q $\rightarrow 4$; $\mathrm{R} \rightarrow 2$; $\mathrm{S} \rightarrow 3$
+
+
+
+(B) $\mathrm{P} \rightarrow 1 ; \mathrm{Q} \rightarrow 2 ; \mathrm{R} \rightarrow 4 ; \mathrm{S} \rightarrow 5$
+
+
+
+(C) $\mathrm{P} \rightarrow 3 ; \mathrm{Q} \rightarrow 2 ; \mathrm{R} \rightarrow 5 ; \mathrm{S} \rightarrow 1$
+
+
+
+(D) $\mathrm{P} \rightarrow 3 ; \mathrm{Q} \rightarrow 2 ; \mathrm{R} \rightarrow 4$; $\mathrm{S} \rightarrow 1$",S3,Requires combining knowledge of crystal field theory and electronic configurations of metal ions,Chemistry,Coordination Compounds,4,Class 12 Chemistry Chapter 9,groq-llama-3.1-8b-instant
+2023,Chemistry,"The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option.
+
+
+
+\textbf{List-I}
+
+
+
+(P) Etard reaction
+
+
+
+(Q) Gattermann reaction
+
+
+
+(R) Gattermann-Koch reaction
+
+
+
+(S) Rosenmund reduction
+
+
+
+
+
+
+
+\textbf{List-II}
+
+
+
+(1) Acetophenone $\stackrel{\mathrm{Zn}-\mathrm{Hg}, \mathrm{HCl}}{\longrightarrow}$
+
+
+
+(2) Toluene $\underset{\text{(ii)}\mathrm{SOCl}_{2}}{\stackrel{\text { (i) } \mathrm{KMnO}_{4}, \mathrm{KOH}, \Delta}{\longrightarrow}}$
+
+
+
+
+
+(3) Benzene $\underset{\text { anhyd. } \mathrm{AlCl}_{3}}{\stackrel{\mathrm{CH}_{3} \mathrm{Cl}}{\longrightarrow}}$
+
+
+
+(4) Aniline $\underset{273-278 \mathrm{~K}}{\stackrel{\mathrm{NaNO}_{2} / \mathrm{HCl}}{\longrightarrow}}$
+
+
+
+(5) Phenol $\stackrel{\mathrm{Zn}, \Delta}{\longrightarrow}$
+
+
+
+
+
+(A) $\mathrm{P} \rightarrow 2$; $\mathrm{Q} \rightarrow 4 ; \mathrm{R} \rightarrow 1 ; \mathrm{S} \rightarrow 3$
+
+
+
+(B) $\mathrm{P} \rightarrow 1$; $\mathrm{Q} \rightarrow 3$; $\mathrm{R} \rightarrow 5$; $\mathrm{S} \rightarrow 2$
+
+
+
+(C) $\mathrm{P} \rightarrow 3$; $\mathrm{Q} \rightarrow 2 ; \mathrm{R} \rightarrow 1$; $\mathrm{S} \rightarrow 4$
+
+
+
+(D) $\mathrm{P} \rightarrow 3$; $\mathrm{Q} \rightarrow 4$; R $\rightarrow 5$; $\mathrm{S} \rightarrow 2$",S3,Requires combining knowledge from distinct chapters/topics simultaneously to match reactions.,Organic Chemistry,Reactions and Mechanisms,4,Class 12 Chemistry Chapter 12,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let $f:[1, \infty) \rightarrow \mathbb{R}$ be a differentiable function such that $f(1)=\frac{1}{3}$ and $3 \int_{1}^{x} f(t) d t=x f(x)-\frac{x^{3}}{3}, x \in[1, \infty)$. Let $e$ denote the base of the natural logarithm. Then the value of $f(e)$ is
+
+
+
+(A) $\frac{e^{2}+4}{3}$
+
+
+
+(B) $\frac{\log _{e} 4+e}{3}$
+
+
+
+(C) $\frac{4 e^{2}}{3}$
+
+
+
+(D) $\frac{e^{2}-4}{3}$",S3,Combines knowledge of integration and function differentiation.,Calculus,Integration and Differentiation,5,Class 12 Mathematics Chapter 7,groq-llama-3.1-8b-instant
+2023,Mathematics,"Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses are same. If the probability of a random toss resulting in head is $\frac{1}{3}$, then the probability that the experiment stops with head is
+
+
+
+(A) $\frac{1}{3}$
+
+
+
+(B) $\frac{5}{21}$
+
+
+
+(C) $\frac{4}{21}$
+
+
+
+(D) $\frac{2}{7}$",S3,Requires combining knowledge of probability and sequences of events.,Probability,Conditional Probability,4,Class 11 Maths Chapter 15 N,groq-llama-3.1-8b-instant
+2023,Mathematics,"For any $y \in \mathbb{R}$, let $\cot ^{-1}(y) \in(0, \pi)$ and $\tan ^{-1}(y) \in\left(-\frac{\pi}{2}, \frac{\pi}{2}\right)$. Then the sum of all the solutions of the equation $\tan ^{-1}\left(\frac{6 y}{9-y^{2}}\right)+\cot ^{-1}\left(\frac{9-y^{2}}{6 y}\right)=\frac{2 \pi}{3}$ for $0<|y|<3$, is equal to
+
+
+
+(A) $2 \sqrt{3}-3$
+
+
+
+(B) $3-2 \sqrt{3}$
+
+
+
+(C) $4 \sqrt{3}-6$
+
+
+
+(D) $6-4 \sqrt{3}$",S3,Requires combining knowledge from inverse trigonometric functions and their properties.,Mathematics,Inverse Trigonometric Functions,5,Class 11 Mathematics Chapter 3,groq-llama-3.1-8b-instant
+2023,Mathematics,"Let the position vectors of the points $P, Q, R$ and $S$ be $\vec{a}=\hat{i}+2 \hat{j}-5 \hat{k}, \vec{b}=3 \hat{i}+6 \hat{j}+3 \hat{k}$, $\vec{c}=\frac{17}{5} \hat{i}+\frac{16}{5} \hat{j}+7 \hat{k}$ and $\vec{d}=2 \hat{i}+\hat{j}+\hat{k}$, respectively. Then which of the following statements is true?
+
+
+
+(A) The points $P, Q, R$ and $S$ are NOT coplanar
+
+
+
+(B) $\frac{\vec{b}+2 \vec{d}}{3}$ is the position vector of a point which divides $P R$ internally in the ratio $5: 4$
+
+
+
+(C) $\frac{\vec{b}+2 \vec{d}}{3}$ is the position vector of a point which divides $P R$ externally in the ratio $5: 4$
+
+
+
+(D) The square of the magnitude of the vector $\vec{b} \times \vec{d}$ is 95",S5,Requires exhaustive verification of multiple claims to identify the correct statement,Vector Algebra,Properties of Cross Product,5,Class 12 Maths Chapter 10,groq-llama-3.1-8b-instant
+2023,Physics,"Young's modulus of elasticity $Y$ is expressed in terms of three derived quantities, namely, the gravitational constant $G$, Planck's constant $h$ and the speed of light $c$, as $Y=c^{\alpha} h^{\beta} G^{\gamma}$. Which of the following is the correct option?
+
+
+
+(A) $\alpha=7, \beta=-1, \gamma=-2$
+
+
+
+(B) $\alpha=-7, \beta=-1, \gamma=-2$
+
+
+
+(C) $\alpha=7, \beta=-1, \gamma=2$
+
+
+
+(D) $\alpha=-7, \beta=1, \gamma=-2$",S5,Requires verification of multiple claims to find the correct option,Mechanics,Elasticity,4,Class 11 Physics Chapter 14,groq-llama-3.1-8b-instant
+2023,Physics,"A particle of mass $m$ is moving in the $x y$-plane such that its velocity at a point $(x, y)$ is given as $\overrightarrow{\mathrm{v}}=\alpha(y \hat{x}+2 x \hat{y})$, where $\alpha$ is a non-zero constant. What is the force $\vec{F}$ acting on the particle?
+
+
+
+(A) $\vec{F}=2 m \alpha^{2}(x \hat{x}+y \hat{y})$
+
+
+
+(B) $\vec{F}=m \alpha^{2}(y \hat{x}+2 x \hat{y})$
+
+
+
+(C) $\vec{F}=2 m \alpha^{2}(y \hat{x}+x \hat{y})$
+
+
+
+(D) $\vec{F}=m \alpha^{2}(x \hat{x}+2 y \hat{y})$",S2,Applying Newton's second law to the given velocity,Class 11 Physics Chapter 4,Motion in a Plane,4,"Chapter 4, Page 71",groq-llama-3.1-8b-instant
+2023,Physics,"An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is $n$. The internal energy of one mole of the gas is $U_{n}$ and the speed of sound in the gas is $\mathrm{v}_{n}$. At a fixed temperature and pressure, which of the following is the correct option?
+
+
+
+(A) $v_{3}<v_{6}$ and $U_{3}>U_{6}$
+
+
+
+(B) $v_{5}>v_{3}$ and $U_{3}>U_{5}$
+
+
+
+(C) $v_{5}>v_{7}$ and $U_{5}<U_{7}$
+
+
+
+(D) $v_{6}<v_{7}$ and $U_{6}<U_{7}$",S5,Requires verification of multiple claims about the relationship between speed of sound and internal energy for different degrees of freedom.,Thermodynamics,Ideal Gases,4,Class 11 Physics Chapter 5,groq-llama-3.1-8b-instant
+2023,Chemistry,"Consider the following statements related to colloids.
+
+
+
+(I) Lyophobic colloids are not formed by simple mixing of dispersed phase and dispersion medium.
+
+
+
+(II) For emulsions, both the dispersed phase and the dispersion medium are liquid.
+
+
+
+(III) Micelles are produced by dissolving a surfactant in any solvent at any temperature.
+
+
+
+(IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium.
+
+
+
+The option with the correct set of statements is
+
+
+
+(A) (I) and (II)
+
+
+
+(B) (II) and (III)
+
+
+
+(C) (III) and (IV)
+
+
+
+(D) (II) and (IV)",S5,Requires exhaustive verification of multiple claims to identify the correct set of statements.,Chemistry,Colloids,4,Class 12 Chemistry Chapter 2,groq-llama-3.1-8b-instant
